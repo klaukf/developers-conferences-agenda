@@ -2,357 +2,2606 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:DCA
 BEGIN:VEVENT
-UID:PosaDev 2023@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231027
-LOCATION:Guadalajara (Mexico)
-SUMMARY:PosaDev 2023
-URL:https://sessionize.com/posadev-2023
+UID:IWD26 Douala@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260304
+LOCATION:Douala (Cameroon)
+SUMMARY:IWD26 Douala
+URL:https://sessionize.com/iwd26-douala-copy
+DESCRIPTION:CFP Opened Until: 04-March-2026\nCFP Link: https://sessionize.c
+ om/iwd26-douala-copy\nEvent: https://gdg.community.dev/events/details/googl
+ e-gdg-douala-presents-iwd26-douala/
 END:VEVENT
 BEGIN:VEVENT
-UID:HalfStack Tel Aviv@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231028
-LOCATION:Tel Aviv (Israel)
-SUMMARY:HalfStack Tel Aviv
-URL:https://halfstackconf.com/cfp/
+UID:GopherCon 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260304
+LOCATION:Washington D.C. (USA)
+SUMMARY:GopherCon 2026
+URL:https://sessionize.com/gophercon-2026
+DESCRIPTION:CFP Opened Until: 04-March-2026\nCFP Link: https://sessionize.c
+ om/gophercon-2026\nEvent: https://gophercon.com
 END:VEVENT
 BEGIN:VEVENT
-UID:Code BEAM America@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231029
-LOCATION:San Francisco (USA)
-SUMMARY:Code BEAM America
-URL:https://sessionize.com/code-beam-america-2024/
+UID:Hardwear.io USA@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260305
+LOCATION:Anaheim, CA (USA)
+SUMMARY:Hardwear.io USA
+URL:https://hardwear.io/usa-2026/cfp.php
+DESCRIPTION:CFP Opened Until: 05-March-2026\nCFP Link: https://hardwear.io/
+ usa-2026/cfp.php\nEvent: https://hardwear.io/usa-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:Great International Developer Summit (GIDS)@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231030
-LOCATION:Bengaluru, Karnataka (India)
-SUMMARY:Great International Developer Summit (GIDS)
-URL:https://form.jotform.com/developersummit/gids-2024-call-for-proposals
+UID:Wome'nTech@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Vicenza (Italy)
+SUMMARY:Wome'nTech
+URL:https://sessionize.com/womentech
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/womentech\nEvent: https://gdg.community.dev/gdg-vicenza
 END:VEVENT
 BEGIN:VEVENT
-UID:Explore DDD@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231031
-LOCATION:Denver (USA)
-SUMMARY:Explore DDD
-URL:https://sessionize.com/explore-ddd-2023/
+UID:AgentCon Seoul@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Seoul (South Korea)
+SUMMARY:AgentCon Seoul
+URL:https://sessionize.com/agentcon-seoul
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/agentcon-seoul\nEvent: https://globalai.community/chapters/seoul/events/
+ agentcon-seoul/
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest Bujumbura@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231101
-LOCATION:Bujumbura (Burundi)
-SUMMARY:DevFest Bujumbura
-URL:https://sessionize.com/devfest-bujumbura-2023/
+UID:AgentCon Hong Kong@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Hong Kong (Hong Kong)
+SUMMARY:AgentCon Hong Kong
+URL:https://sessionize.com/agentcon-hong-kong
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/agentcon-hong-kong\nEvent: https://globalai.community/chapters/hong-kong
+ /events/agentcon-hong-kong/
 END:VEVENT
 BEGIN:VEVENT
-UID:SCaLE 21x@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231101
-LOCATION:Pasadena (USA)
-SUMMARY:SCaLE 21x
-URL:https://www.socallinuxexpo.org/scale/21x/call-presenters
+UID:PyCon Austria 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Eisenstadt (Austria)
+SUMMARY:PyCon Austria 2026
+URL:https://www.papercall.io/pycon-austria-2026
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://www.papercal
+ l.io/pycon-austria-2026\nEvent: https://pycon.at
 END:VEVENT
 BEGIN:VEVENT
-UID:90DaysOfDevOps@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231102
-LOCATION:Online
-SUMMARY:90DaysOfDevOps
-URL:https://sessionize.com/90daysofdevops-2024-community-edition/
+UID:Cloud Native Days Italy@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Bologna (Italy)
+SUMMARY:Cloud Native Days Italy
+URL:https://sessionize.com/cloud-native-days-italy-2026
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/cloud-native-days-italy-2026\nEvent: https://cloudnativedaysitaly.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:API Days Paris@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231106
+UID:20th Silicon Saxony Days@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Dresden (Germany)
+SUMMARY:20th Silicon Saxony Days
+URL:https://sessionize.com/20th-silicon-saxony-days
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/20th-silicon-saxony-days\nEvent: https://www.silicon-saxony-day.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026 Provincial Intermediate and Middle Years Teachers' Association (my
+ PITA) Fall Conference@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260306
+LOCATION:Vancouver, BC (Canada)
+SUMMARY:2026 Provincial Intermediate and Middle Years Teachers' Association
+  (myPITA) Fall Conference
+URL:https://sessionize.com/mypita
+DESCRIPTION:CFP Opened Until: 06-March-2026\nCFP Link: https://sessionize.c
+ om/mypita\nEvent: https://mypita.ca/
+END:VEVENT
+BEGIN:VEVENT
+UID:Atlassian Conference Nepal 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260307
+LOCATION:Kathmandu (Nepal)
+SUMMARY:Atlassian Conference Nepal 2026
+URL:https://www.papercall.io/acekathmandu2026
+DESCRIPTION:CFP Opened Until: 07-March-2026\nCFP Link: https://www.papercal
+ l.io/acekathmandu2026\nEvent: https://ace.atlassian.com/events/details/atla
+ ssian-kathmandu-presents-atlassian-community-conference-2026-kathmandu/?cod
+ e=KTMACEChampions
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Belgrade 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260307
+LOCATION:Belgrade (Serbia)
+SUMMARY:BSides Belgrade 2026
+URL:https://sessionize.com/bsides-belgrade-20263111
+DESCRIPTION:CFP Opened Until: 07-March-2026\nCFP Link: https://sessionize.c
+ om/bsides-belgrade-20263111\nEvent: https://bsidesbeg.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:Global AI Milwaukee AgentCamp 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260307
+LOCATION:Pewaukee (USA)
+SUMMARY:Global AI Milwaukee AgentCamp 2026
+URL:https://sessionize.com/global-ai-milwaukee-agentcamp-2026
+DESCRIPTION:CFP Opened Until: 07-March-2026\nCFP Link: https://sessionize.c
+ om/global-ai-milwaukee-agentcamp-2026\nEvent: https://globalai.community/ag
+ entcamp/milwaukee/
+END:VEVENT
+BEGIN:VEVENT
+UID:DDD South West 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260307
+LOCATION:Bristol (UK)
+SUMMARY:DDD South West 2026
+URL:https://sessionize.com/ddd-south-west-2026
+DESCRIPTION:CFP Opened Until: 07-March-2026\nCFP Link: https://sessionize.c
+ om/ddd-south-west-2026\nEvent: https://dddsouthwest.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Flupa UX Days 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260307
 LOCATION:Paris (France)
-SUMMARY:API Days Paris
-URL:https://apidays.typeform.com/to/ILJeAaV8
+SUMMARY:Flupa UX Days 2026
+URL:https://sessionize.com/flupa-ux-days-2025-appel-a-orateurric
+DESCRIPTION:CFP Opened Until: 07-March-2026\nCFP Link: https://sessionize.c
+ om/flupa-ux-days-2025-appel-a-orateurric\nEvent: https://www.uxdays.eu
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest Zambia@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231110
-LOCATION:Kitwe (Zambia)
-SUMMARY:DevFest Zambia
-URL:sessionize.com/devfest-zambia-2023
+UID:Global Azure Munich 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260308
+LOCATION:Munich (Germany)
+SUMMARY:Global Azure Munich 2026
+URL:https://sessionize.com/global-azure-munich-2026/
+DESCRIPTION:CFP Opened Until: 08-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-munich-2026/\nEvent: http://global26.azuredev.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:KCD Spain@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231110
-LOCATION:Online
-SUMMARY:KCD Spain
-URL:https://kcd.smapply.io/prog/kcd_spain_2023/
-END:VEVENT
-BEGIN:VEVENT
-UID:KCD Oslo@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231113
-LOCATION:Oslo (Norway)
-SUMMARY:KCD Oslo
-URL:https://kcd.smapply.io/prog/kcd_oslo_2024_cfp/
-END:VEVENT
-BEGIN:VEVENT
-UID:AFUP Day Nancy@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231113
-LOCATION:Nancy (France)
-SUMMARY:AFUP Day Nancy
-URL:https://afup.org/event/afupday2024nancy
-END:VEVENT
-BEGIN:VEVENT
-UID:AFUP Day Poitiers@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231113
-LOCATION:Poitiers (France)
-SUMMARY:AFUP Day Poitiers
-URL:https://afup.org/event/afupday2024poitiers
-END:VEVENT
-BEGIN:VEVENT
-UID:AFUP Day Lille@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231113
+UID:Agi'Lille 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260308
 LOCATION:Lille (France)
-SUMMARY:AFUP Day Lille
-URL:https://afup.org/event/afupday2024lille
+SUMMARY:Agi'Lille 2026
+URL:https://sessionize.com/agilille-2026
+DESCRIPTION:CFP Opened Until: 08-March-2026\nCFP Link: https://sessionize.c
+ om/agilille-2026\nEvent: https://agilille.fr
 END:VEVENT
 BEGIN:VEVENT
-UID:AFUP Day Lyon@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231113
-LOCATION:Lyon (France)
-SUMMARY:AFUP Day Lyon
-URL:https://afup.org/event/afupday2024lyon
+UID:CFCamp 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260309
+LOCATION:Munich (Germany)
+SUMMARY:CFCamp 2026
+URL:https://www.papercall.io/cfcamp2026
+DESCRIPTION:CFP Opened Until: 09-March-2026\nCFP Link: https://www.papercal
+ l.io/cfcamp2026\nEvent: https://www.cfcamp.org/
 END:VEVENT
 BEGIN:VEVENT
-UID:Config Management Camp@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231115
-LOCATION:Ghent (Belgium)
-SUMMARY:Config Management Camp
-URL:https://cfp.cfgmgmtcamp.org/2024/cfp
+UID:KCDC 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260309
+LOCATION:Kansas City, MO (USA)
+SUMMARY:KCDC 2026
+URL:https://sessionize.com/kcdc-2026
+DESCRIPTION:CFP Opened Until: 09-March-2026\nCFP Link: https://sessionize.c
+ om/kcdc-2026\nEvent: http://www.kcdc.info
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest Owerri@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231118
-LOCATION:Owerri (Nigeria)
-SUMMARY:DevFest Owerri
-URL:https://sessionize.com/gdg-owerri-devfest-2023
+UID:VCF Latam 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260310
+LOCATION:Bahia Blanca (Argentina)
+SUMMARY:VCF Latam 2026
+URL:https://sessionize.com/vcf-latam-2026
+DESCRIPTION:CFP Opened Until: 10-March-2026\nCFP Link: https://sessionize.c
+ om/vcf-latam-2026\nEvent: https://vcf.espaciotec.com.ar/
 END:VEVENT
 BEGIN:VEVENT
-UID:Voxxed Days Zurich@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231119
-LOCATION:Zurich (Switzerland)
-SUMMARY:Voxxed Days Zurich
-URL:https://vdz24.cfp.dev/
+UID:LACNIC 45@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260310
+LOCATION:Guadalajara (Mexico)
+SUMMARY:LACNIC 45
+URL:https://www.papercall.io/cfp-lac-csirts
+DESCRIPTION:CFP Opened Until: 10-March-2026\nCFP Link: https://www.papercal
+ l.io/cfp-lac-csirts\nEvent: https://lacnic45.lacnic.net/
 END:VEVENT
 BEGIN:VEVENT
-UID:Everything Open 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231119
-LOCATION:Gladstone (Australia)
-SUMMARY:Everything Open 2024
-URL:https://2024.everythingopen.au/programme/proposals/
+UID:AgentCamp Sofia@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260310
+LOCATION:Sofia (Bulgaria)
+SUMMARY:AgentCamp Sofia
+URL:https://sessionize.com/agentcamp-sofia
+DESCRIPTION:CFP Opened Until: 10-March-2026\nCFP Link: https://sessionize.c
+ om/agentcamp-sofia\nEvent: http://bsc.technology/AIBootcamp/
 END:VEVENT
 BEGIN:VEVENT
-UID:Commit Conf@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231119
-LOCATION:Madrid (Spain)
-SUMMARY:Commit Conf
-URL:https://koliseo.com/commit/2024/sessions
+UID:BSides Boulder 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260310
+LOCATION:Boulder, CO (USA)
+SUMMARY:BSides Boulder 2026
+URL:https://sessionize.com/bsides-boulder-2026/
+DESCRIPTION:CFP Opened Until: 10-March-2026\nCFP Link: https://sessionize.c
+ om/bsides-boulder-2026/\nEvent: https://bsidesboulder.org
 END:VEVENT
 BEGIN:VEVENT
-UID:DevFest San Jose 2023@dca-2023
-DTSTAMP:20231025T075516
-DTSTART:20231125
-LOCATION:San Jose (USA)
-SUMMARY:DevFest San Jose 2023
-URL:https://sessionize.com/devfest-gdg-san-jose2856/
-END:VEVENT
-BEGIN:VEVENT
-UID:KubeCon + CloudNativeCon Europe 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231126
-LOCATION:Paris (France)
-SUMMARY:KubeCon + CloudNativeCon Europe 2024
-URL:https://sessionize.com/kubecon-cloudnativecon-europe-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:Touraine Tech@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231129
-LOCATION:Tours (France)
-SUMMARY:Touraine Tech
-URL:https://conference-hall.io/speaker/event/J2VpXPXWngD69u0nrA3R
-END:VEVENT
-BEGIN:VEVENT
-UID:Scan Agile@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231130
-LOCATION:Helsinki (Finland)
-SUMMARY:Scan Agile
-URL:https://sessionize.com/scanagile24/
-END:VEVENT
-BEGIN:VEVENT
-UID:php tek 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231130
-LOCATION:Chicago (USA)
-SUMMARY:php tek 2024
-URL:https://sessionize.com/phptek-2024
-END:VEVENT
-BEGIN:VEVENT
-UID:DevOpsDays Birmingham AI@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231201
-LOCATION:Birmingham (USA)
-SUMMARY:DevOpsDays Birmingham AI
-URL:https://devopsdays.org/events/2024-birmingham-al/propose
-END:VEVENT
-BEGIN:VEVENT
-UID:AgiLeMans@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231202
-LOCATION:Le Mans (France)
-SUMMARY:AgiLeMans
-URL:https://sessionize.com/8ieme-journee-agile-au-mans-france/
-END:VEVENT
-BEGIN:VEVENT
-UID:DevSum 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231203
-LOCATION:Stockholm (Sweden)
-SUMMARY:DevSum 2024
-URL:https://www.devsum.se/call-for-paper
-END:VEVENT
-BEGIN:VEVENT
-UID:T3chfest@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231204
-LOCATION:Madrid (Spain)
-SUMMARY:T3chfest
-URL:https://t3chfest.es/2024/call-for-talks
-END:VEVENT
-BEGIN:VEVENT
-UID:Elixir Conf@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231210
-LOCATION:Lisbon (Portugal)
-SUMMARY:Elixir Conf
-URL:https://sessionize.com/elixirconf-eu-2024/
-END:VEVENT
-BEGIN:VEVENT
-UID:JSDay@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231215
-LOCATION:Verona (Italy)
-SUMMARY:JSDay
-URL:https://2024.jsday.it/welcome/cfp.html
-END:VEVENT
-BEGIN:VEVENT
-UID:GopherCon Brazil 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231215
+UID:GopherCon Latam 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260310
 LOCATION:Florianópolis (Brazil)
-SUMMARY:GopherCon Brazil 2024
-URL:https://www.papercall.io/gopherconbrazil2024
+SUMMARY:GopherCon Latam 2026
+URL:https://www.papercall.io/gopherconlatam2026
+DESCRIPTION:CFP Opened Until: 10-March-2026\nCFP Link: https://www.papercal
+ l.io/gopherconlatam2026\nEvent: https://gopherconlatam.org
 END:VEVENT
 BEGIN:VEVENT
-UID:AppDevCon@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231217
-LOCATION:Amsterdam (Netherlands)
-SUMMARY:AppDevCon
-URL:https://sessionize.com/appdevcon-2024
+UID:Copilot & Co - Göteborg@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260311
+LOCATION:Göteborg (Sweden)
+SUMMARY:Copilot & Co - Göteborg
+URL:https://sessionize.com/copilotco-goteborg
+DESCRIPTION:CFP Opened Until: 11-March-2026\nCFP Link: https://sessionize.c
+ om/copilotco-goteborg\nEvent: https://copilotco.se
 END:VEVENT
 BEGIN:VEVENT
-UID:WebDevCon@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231217
-LOCATION:Amsterdam (Netherlands)
-SUMMARY:WebDevCon
-URL:https://sessionize.com/webdevcon-2024
+UID:GitHub Copilot Dev Days | Perth@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260311
+LOCATION:Perth (Australia)
+SUMMARY:GitHub Copilot Dev Days | Perth
+URL:https://sessionize.com/github-copilot-dev-days-perth
+DESCRIPTION:CFP Opened Until: 11-March-2026\nCFP Link: https://sessionize.c
+ om/github-copilot-dev-days-perth\nEvent: https://www.meetup.com/perth-githu
+ b-user-group/events/313275269/
 END:VEVENT
 BEGIN:VEVENT
-UID:Conf42: DevOps@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20231226
+UID:AgentCamp 2026 Perth@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260311
+LOCATION:Perth (Australia)
+SUMMARY:AgentCamp 2026 Perth
+URL:https://sessionize.com/agentcamp-2026-perth
+DESCRIPTION:CFP Opened Until: 11-March-2026\nCFP Link: https://sessionize.c
+ om/agentcamp-2026-perth\nEvent: https://globalai.community/agentcamp/seu56m
+ 6w/
+END:VEVENT
+BEGIN:VEVENT
+UID:Ruby Conf Africa 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260311
+LOCATION:Nairobi (Kenya)
+SUMMARY:Ruby Conf Africa 2026
+URL:https://www.papercall.io/ruby-conf-africa-2026
+DESCRIPTION:CFP Opened Until: 11-March-2026\nCFP Link: https://www.papercal
+ l.io/ruby-conf-africa-2026\nEvent: https://rubyconf.africa/
+END:VEVENT
+BEGIN:VEVENT
+UID:Copilot Community Conference Europe 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260312
 LOCATION:Online
-SUMMARY:Conf42: DevOps
-URL:https://www.papercall.io/conf42-devops-2024
+SUMMARY:Copilot Community Conference Europe 2026
+URL:https://sessionize.com/copilot-community-conference-europe
+DESCRIPTION:CFP Opened Until: 12-March-2026\nCFP Link: https://sessionize.c
+ om/copilot-community-conference-europe\nEvent: https://copilotcommunityconf
+ erence.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:WASM IO@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240101
-LOCATION:Barcelona (Spain)
-SUMMARY:WASM IO
-URL:https://www.papercall.io/wasmio24
+UID:Cybersecurity - una gara da vincere 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260312
+LOCATION:Imola (Italy)
+SUMMARY:Cybersecurity - una gara da vincere 2026
+URL:https://sessionize.com/cybersecurity-una-gara-da-vincere-2026
+DESCRIPTION:CFP Opened Until: 12-March-2026\nCFP Link: https://sessionize.c
+ om/cybersecurity-una-gara-da-vincere-2026\nEvent: https://www.linkedin.com/
+ company/cybergaradavincere/?viewAsMember=true
 END:VEVENT
 BEGIN:VEVENT
-UID:HalfStack Phoenix@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240102
-LOCATION:Phoenix (USA)
-SUMMARY:HalfStack Phoenix
-URL:https://halfstackconf.com/cfp/
+UID:Power BI Days DC 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260313
+LOCATION:Arlington, VA (USA)
+SUMMARY:Power BI Days DC 2026
+URL:https://sessionize.com/power-bi-days-dc-2026
+DESCRIPTION:CFP Opened Until: 13-March-2026\nCFP Link: https://sessionize.c
+ om/power-bi-days-dc-2026\nEvent: https://www.powerbidc.org
 END:VEVENT
 BEGIN:VEVENT
-UID:DevOpsDays Geneva@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240107
-LOCATION:Geneva (Switzerland)
-SUMMARY:DevOpsDays Geneva
-URL:https://devopsdays-geneva.ch/forms/InputFormSpkrsDodGe.php?who=pb0cb479
- 56025e73c797e5e17f16fc38466e34f5ae
+UID:Azur Tech Summer 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260313
+LOCATION:Valbonne (France)
+SUMMARY:Azur Tech Summer 2026
+URL:https://conference-hall.io/azur-tech-summer-2026
+DESCRIPTION:CFP Opened Until: 13-March-2026\nCFP Link: https://conference-h
+ all.io/azur-tech-summer-2026\nEvent: https://www.telecom-valley.fr/azurtech
+ summer/
 END:VEVENT
 BEGIN:VEVENT
-UID:Code Beam Lite@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240131
-LOCATION:Coruna (Spain)
-SUMMARY:Code Beam Lite
-URL:https://sessionize.com/code-beam-corunha-2024/
+UID:Agile Lyon 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260313
+LOCATION:Lyon (France)
+SUMMARY:Agile Lyon 2026
+URL:https://sessionize.com/agile-lyon-2026/
+DESCRIPTION:CFP Opened Until: 13-March-2026\nCFP Link: https://sessionize.c
+ om/agile-lyon-2026/\nEvent: https://www.agilelyon.fr/
 END:VEVENT
 BEGIN:VEVENT
-UID:WeAreDevelopers World Congress 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240131
-LOCATION:Berlin (Germany)
-SUMMARY:WeAreDevelopers World Congress 2024
-URL:https://sessionize.com/wearedevelopers-world-congress-2024
+UID:TailscaleUp 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260313
+LOCATION:San Francisco, CA (USA)
+SUMMARY:TailscaleUp 2026
+URL:https://sessionize.com/tailscaleup2026
+DESCRIPTION:CFP Opened Until: 13-March-2026\nCFP Link: https://sessionize.c
+ om/tailscaleup2026\nEvent: https://www.tailscale.com/tailscaleup
 END:VEVENT
 BEGIN:VEVENT
-UID:Domain-Driven Design Europe 2024@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240215
-LOCATION:Amsterdam (Netherlands)
-SUMMARY:Domain-Driven Design Europe 2024
-URL:https://2024.dddeurope.com/cfp/
-END:VEVENT
-BEGIN:VEVENT
-UID:API Platform Conference@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240329
-LOCATION:Lille (France) & Online
-SUMMARY:API Platform Conference
-URL:https://conference-hall.io/public/event/GMijW4ZrZDo6hzKeF1gk
-END:VEVENT
-BEGIN:VEVENT
-UID:DevOpsDays London@dca-2024
-DTSTAMP:20231025T075516
-DTSTART:20240524
+UID:Global Azure London 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
 LOCATION:London (UK)
-SUMMARY:DevOpsDays London
-URL:https://docs.google.com/forms/d/e/1FAIpQLSdUK4VNyhpfpqhrm8BY7KmAvSNQHIu
- L49YOabkYDInbnyKD1g/viewform
+SUMMARY:Global Azure London 2026
+URL:https://sessionize.com/global-azure-london
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-london\nEvent: https://globalazure.net
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Azure Bootcamp 2026 - Melbourne Australia@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Melbourne (Australia)
+SUMMARY:Global Azure Bootcamp 2026 - Melbourne Australia
+URL:https://sessionize.com/global-azure-bootcamp-2026-melbourne-a
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-bootcamp-2026-melbourne-a\nEvent: https://melbourneazureboo
+ tcamp.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:International Women's Day Kisii 2026 - Breaking the Pattern@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Kisii (Kenya)
+SUMMARY:International Women's Day Kisii 2026 - Breaking the Pattern
+URL:https://sessionize.com/iwd-nairobi-2021-copy
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/iwd-nairobi-2021-copy\nEvent: https://www.eventbrite.com/e/international
+ -womens-day-kisii-2026-breaking-the-pattern-tickets-1983258404275?aff=oddtd
+ tcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:Boise Code Camp - 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Boise, ID (USA)
+SUMMARY:Boise Code Camp - 2026
+URL:https://sessionize.com/boise-code-camp-2026
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/boise-code-camp-2026\nEvent: https://www.boisecodecamp.com
+END:VEVENT
+BEGIN:VEVENT
+UID:MenderCon 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Online
+SUMMARY:MenderCon 2026
+URL:https://www.papercall.io/mendercon-2026
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://www.papercal
+ l.io/mendercon-2026\nEvent: https://mendercon.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:AgentCamp - Tulsa@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Tulsa, OK (USA)
+SUMMARY:AgentCamp - Tulsa
+URL:https://sessionize.com/agentcamp-tulsa/
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/agentcamp-tulsa/\nEvent: https://globalai.community/agentcamp/tulsa/
+END:VEVENT
+BEGIN:VEVENT
+UID:ThreatModCon 2026 Vienna@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Vienna (Austria)
+SUMMARY:ThreatModCon 2026 Vienna
+URL:https://sessionize.com/threatmodcon-2026-vienna
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/threatmodcon-2026-vienna\nEvent: https://www.threatmodcon.com/vienna-202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+UID:KanDDDinsky 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260314
+LOCATION:Berlin (Germany)
+SUMMARY:KanDDDinsky 2026
+URL:https://sessionize.com/kandddinsky-2026
+DESCRIPTION:CFP Opened Until: 14-March-2026\nCFP Link: https://sessionize.c
+ om/kandddinsky-2026\nEvent: https://kandddinsky.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Sem Servidor Conf 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Florianópolis (Brazil)
+SUMMARY:Sem Servidor Conf 2026
+URL:https://www.papercall.io/semservidorconf2026-floripa
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://www.papercal
+ l.io/semservidorconf2026-floripa\nEvent: https://materiais.semservidor.com.
+ br/sem-servidor-conf-2026-floripa
+END:VEVENT
+BEGIN:VEVENT
+UID:Optimized AI Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Atlanta, GA (USA)
+SUMMARY:Optimized AI Conference 2026
+URL:https://sessionize.com/optimized-ai-conference-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/optimized-ai-conference-2026\nEvent: https://www.oaiconference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Orlando Code Camp 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Sanford, FL (USA)
+SUMMARY:Orlando Code Camp 2026
+URL:https://sessionize.com/orlando-code-camp-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/orlando-code-camp-2026\nEvent: https://orlandocodecamp.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Lost in a Lightfield Online Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Online
+SUMMARY:Lost in a Lightfield Online Conference 2026
+URL:https://sessionize.com/lost-in-a-lightfield-conference-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/lost-in-a-lightfield-conference-2026\nEvent: https://conference.lostinal
+ ightfield.com
+END:VEVENT
+BEGIN:VEVENT
+UID:A.I. Day 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Rome (Italy)
+SUMMARY:A.I. Day 2026
+URL:https://sessionize.com/a-i-day-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/a-i-day-2026\nEvent: https://aiday.dotnetcode.it
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Azure 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Madrid (Spain)
+SUMMARY:Global Azure 2026
+URL:https://sessionize.com/global-azure-2026-madrid
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-2026-madrid\nEvent: https://globalazure.es
+END:VEVENT
+BEGIN:VEVENT
+UID:LLMday Austin 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Austin, TX (USA)
+SUMMARY:LLMday Austin 2026 Q2
+URL:https://www.papercall.io/llmday-2026-austin-q2
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://www.papercal
+ l.io/llmday-2026-austin-q2\nEvent: https://llmday.com/2026-austin-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:West Africa internet Governance Forum 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Freetown (Sierra Leone)
+SUMMARY:West Africa internet Governance Forum 2026
+URL:https://sessionize.com/waigf2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/waigf2026\nEvent: https://waigf.ecowas.int/
+END:VEVENT
+BEGIN:VEVENT
+UID:Security BSides Knoxville 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Knoxville, TN (USA)
+SUMMARY:Security BSides Knoxville 2026
+URL:https://www.papercall.io/bsides-knoxville-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://www.papercal
+ l.io/bsides-knoxville-2026\nEvent: https://bsidesknoxville.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:CONFidence@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Krakow (Poland)
+SUMMARY:CONFidence
+URL:https://confidence-conference.org/cfp-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://confidence-c
+ onference.org/cfp-2026\nEvent: https://confidence-conference.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Toulouse 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Toulouse (France)
+SUMMARY:Cloud Toulouse 2026
+URL:https://conference-hall.io/cloud-toulouse-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://conference-h
+ all.io/cloud-toulouse-2026\nEvent: https://cloudtoulouse.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Scenic City Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Chattanooga, TN (USA)
+SUMMARY:Scenic City Summit 2026
+URL:https://sessionize.com/scenic-city-summit-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/scenic-city-summit-2026\nEvent: http://www.sceniccitysummit.com
+END:VEVENT
+BEGIN:VEVENT
+UID:DevQuest Niort@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Niort (France)
+SUMMARY:DevQuest Niort
+URL:https://conference-hall.io/devquest-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://conference-h
+ all.io/devquest-2026\nEvent: https://www.devquest.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:Helsinki Architect Dreamin - 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Helsinki (Finland)
+SUMMARY:Helsinki Architect Dreamin - 2026
+URL:https://sessionize.com/helsinki-architect-dreamin-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/helsinki-architect-dreamin-2026\nEvent: https://architectdream.wpengine.
+ com/
+END:VEVENT
+BEGIN:VEVENT
+UID:2026 IRE CONFERENCE@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:National Harbor, MD (USA)
+SUMMARY:2026 IRE CONFERENCE
+URL:https://sessionize.com/2026-ire-conference
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/2026-ire-conference\nEvent: https://www.ire.org
+END:VEVENT
+BEGIN:VEVENT
+UID:ReactNext 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Tel Aviv (Israel)
+SUMMARY:ReactNext 2026
+URL:https://sessionize.com/ReactNext2026/
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/ReactNext2026/\nEvent: https://www.react-next.com
+END:VEVENT
+BEGIN:VEVENT
+UID:NodeTLV 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Tel Aviv (Israel)
+SUMMARY:NodeTLV 2026
+URL:https://sessionize.com/nodetlv-2026/
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/nodetlv-2026/\nEvent: https://www.nodetlv.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:RubyConf Las Vegas 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260315
+LOCATION:Las Vegas, NV (USA)
+SUMMARY:RubyConf Las Vegas 2026
+URL:https://sessionize.com/rubyconf-2026
+DESCRIPTION:CFP Opened Until: 15-March-2026\nCFP Link: https://sessionize.c
+ om/rubyconf-2026\nEvent: http://rubyconf.org
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday San Francisco 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260316
+LOCATION:San Francisco, CA (USA)
+SUMMARY:SREday San Francisco 2026 Q2
+URL:https://www.papercall.io/sreday-2026-san-francisco-q2
+DESCRIPTION:CFP Opened Until: 16-March-2026\nCFP Link: https://www.papercal
+ l.io/sreday-2026-san-francisco-q2\nEvent: https://sreday.com/2026-san-franc
+ isco-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Seattle 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260316
+LOCATION:Seattle, WA (USA)
+SUMMARY:SREday Seattle 2026 Q2
+URL:https://www.papercall.io/sreday-2026-seattle-q2
+DESCRIPTION:CFP Opened Until: 16-March-2026\nCFP Link: https://www.papercal
+ l.io/sreday-2026-seattle-q2\nEvent: https://sreday.com/2026-seattle-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:AWS Community Summit - Birmingham 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260316
+LOCATION:Birmingham (UK)
+SUMMARY:AWS Community Summit - Birmingham 2026
+URL:https://sessionize.com/aws-community-summit-birmingham-2026
+DESCRIPTION:CFP Opened Until: 16-March-2026\nCFP Link: https://sessionize.c
+ om/aws-community-summit-birmingham-2026\nEvent: https://www.comsum.co.uk
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Prishtina 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260317
+LOCATION:Pristina (Kosovo)
+SUMMARY:BSides Prishtina 2026
+URL:https://sessionize.com/bsides-prishtina-2026
+DESCRIPTION:CFP Opened Until: 17-March-2026\nCFP Link: https://sessionize.c
+ om/bsides-prishtina-2026\nEvent: https://www.bsidesprishtina.org
+END:VEVENT
+BEGIN:VEVENT
+UID:KCD New York 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260317
+LOCATION:New York, NY (USA)
+SUMMARY:KCD New York 2026
+URL:https://sessionize.com/kcd-new-york-2026
+DESCRIPTION:CFP Opened Until: 17-March-2026\nCFP Link: https://sessionize.c
+ om/kcd-new-york-2026\nEvent: https://kcdnewyork.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Chain React 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260318
+LOCATION:Portland, OR (USA)
+SUMMARY:Chain React 2026
+URL:https://sessionize.com/chain-react-2026
+DESCRIPTION:CFP Opened Until: 18-March-2026\nCFP Link: https://sessionize.c
+ om/chain-react-2026\nEvent: https://chainreactconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Native Rabat: From Code to Cloud, An End-to-End Journey@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Online
+SUMMARY:Cloud Native Rabat: From Code to Cloud, An End-to-End Journey
+URL:https://sessionize.com/cloud-native-rabat-From-code-to-cloud
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/cloud-native-rabat-From-code-to-cloud\nEvent: https://community.cncf.io/
+ events/details/cncf-cloud-native-rabat-presents-from-code-to-cloud-an-end-t
+ o-end-journey/
+END:VEVENT
+BEGIN:VEVENT
+UID:LexTalk Tech Spring@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Lexington, KY (USA)
+SUMMARY:LexTalk Tech Spring
+URL:https://sessionize.com/lextalk-tech-spring-2025
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/lextalk-tech-spring-2025\nEvent: https://lextalk.tech
+END:VEVENT
+BEGIN:VEVENT
+UID:Leap 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Riyadh (Saudi Arabia)
+SUMMARY:Leap 2026
+URL:https://airtable.com/app3m0ZoYr0hKSqCi/pagDiFnR7HIQe6MRX/form
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://airtable.com
+ /app3m0ZoYr0hKSqCi/pagDiFnR7HIQe6MRX/form\nEvent: https://onegiantleap.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Azure Athens Greece 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Athens (Greece)
+SUMMARY:Global Azure Athens Greece 2026
+URL:https://sessionize.com/global-azure-athens-greece-2026
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-athens-greece-2026\nEvent: https://globalazure.gr
+END:VEVENT
+BEGIN:VEVENT
+UID:AWS Community Day Chile 2025@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Santiago (Chile)
+SUMMARY:AWS Community Day Chile 2025
+URL:https://sessionize.com/aws-community-day-chile-2025-speakers
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/aws-community-day-chile-2025-speakers\nEvent: https://awscommunitydaychi
+ le.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Christchurch AI Techweek Conference@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Christchurch (New Zealand)
+SUMMARY:Christchurch AI Techweek Conference
+URL:https://sessionize.com/christchurch-ai-techweek-conference
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/christchurch-ai-techweek-conference\nEvent: https://www.meetup.com/chris
+ tchurch-ai/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:Pwnterrey 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Monterrey (Mexico)
+SUMMARY:Pwnterrey 2026
+URL:https://sessionize.com/pwnterrey-2026
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/pwnterrey-2026\nEvent: https://pwnterrey.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:Explore DDD 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Denver, CO (USA)
+SUMMARY:Explore DDD 2026
+URL:https://sessionize.com/explore-ddd-2026
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/explore-ddd-2026\nEvent: http://exploreddd.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Lakehouse Day EU 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260320
+LOCATION:Glasgow (UK)
+SUMMARY:Lakehouse Day EU 2026
+URL:https://sessionize.com/lakehouse-day-2026
+DESCRIPTION:CFP Opened Until: 20-March-2026\nCFP Link: https://sessionize.c
+ om/lakehouse-day-2026\nEvent: https://communityovercode.org/lakehouse-day/
+END:VEVENT
+BEGIN:VEVENT
+UID:Austrian Plattform Engineering Community 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260322
+LOCATION:Vienna (Austria)
+SUMMARY:Austrian Plattform Engineering Community 2026
+URL:https://sessionize.com/austrian-plattform-engineering-community
+DESCRIPTION:CFP Opened Until: 22-March-2026\nCFP Link: https://sessionize.c
+ om/austrian-plattform-engineering-community\nEvent: https://www.brz.gv.at/w
+ ie-wir-arbeiten/Kontakt-aufnehmen/veranstaltungen/20260507-austrian-plattfo
+ rm-engineering-community-2026.html
+END:VEVENT
+BEGIN:VEVENT
+UID:Automotive Grade Linux All Member Meeting Japan 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260322
+LOCATION:Tokyo (Japan)
+SUMMARY:Automotive Grade Linux All Member Meeting Japan 2026
+URL:https://sessionize.com/agl_amm_japan_2026
+DESCRIPTION:CFP Opened Until: 22-March-2026\nCFP Link: https://sessionize.c
+ om/agl_amm_japan_2026\nEvent: https://events.linuxfoundation.org/agl-amm/
+END:VEVENT
+BEGIN:VEVENT
+UID:API Platform Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260322
+LOCATION:Lille (France)
+SUMMARY:API Platform Conference 2026
+URL:https://api-platform.com/fr/con/2026/call-for-papers/
+DESCRIPTION:CFP Opened Until: 22-March-2026\nCFP Link: https://api-platform
+ .com/fr/con/2026/call-for-papers/\nEvent: https://api-platform.com/fr/con/
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Cloud Native 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260323
+LOCATION:Online
+SUMMARY:Conf42 Cloud Native 2026
+URL:https://www.papercall.io/conf42-cloud-native-2026
+DESCRIPTION:CFP Opened Until: 23-March-2026\nCFP Link: https://www.papercal
+ l.io/conf42-cloud-native-2026\nEvent: https://www.conf42.com/cloud2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Sloss Tech 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260323
+LOCATION:Birmingham, AL (USA)
+SUMMARY:Sloss Tech 2026
+URL:https://sessionize.com/sloss-tech-2026
+DESCRIPTION:CFP Opened Until: 23-March-2026\nCFP Link: https://sessionize.c
+ om/sloss-tech-2026\nEvent: https://sloss.tech
+END:VEVENT
+BEGIN:VEVENT
+UID:Live! 360 Tech Con Orlando 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260323
+LOCATION:Orlando, FL (USA)
+SUMMARY:Live! 360 Tech Con Orlando 2026
+URL:https://sessionize.com/live-360-tech-con-orlando-2026
+DESCRIPTION:CFP Opened Until: 23-March-2026\nCFP Link: https://sessionize.c
+ om/live-360-tech-con-orlando-2026\nEvent: https://live360events.com
+END:VEVENT
+BEGIN:VEVENT
+UID:BreizhCamp 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260324
+LOCATION:Rennes (France)
+SUMMARY:BreizhCamp 2026
+URL:https://sessionize.com/breizhcamp-2026
+DESCRIPTION:CFP Opened Until: 24-March-2026\nCFP Link: https://sessionize.c
+ om/breizhcamp-2026\nEvent: https://www.breizhcamp.org
+END:VEVENT
+BEGIN:VEVENT
+UID:TechReady@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260325
+LOCATION:Nantes (France)
+SUMMARY:TechReady
+URL:https://conference-hall.io/techready
+DESCRIPTION:CFP Opened Until: 25-March-2026\nCFP Link: https://conference-h
+ all.io/techready\nEvent: https://techready.live/
+END:VEVENT
+BEGIN:VEVENT
+UID:AI DevSummit New York 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260327
+LOCATION:New York, NY (USA)
+SUMMARY:AI DevSummit New York 2026
+URL:https://sessionize.com/ai-devsummit-new-york-2026/
+DESCRIPTION:CFP Opened Until: 27-March-2026\nCFP Link: https://sessionize.c
+ om/ai-devsummit-new-york-2026/\nEvent: https://aidevsummit.co/new-york
+END:VEVENT
+BEGIN:VEVENT
+UID:DeveloperWeek New York 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260327
+LOCATION:New York, NY (USA)
+SUMMARY:DeveloperWeek New York 2026
+URL:https://sessionize.com/developerweek-new-york-2026
+DESCRIPTION:CFP Opened Until: 27-March-2026\nCFP Link: https://sessionize.c
+ om/developerweek-new-york-2026\nEvent: https://www.developerweek.com/newyor
+ k/
+END:VEVENT
+BEGIN:VEVENT
+UID:Beam Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260327
+LOCATION:New York, NY (USA)
+SUMMARY:Beam Summit 2026
+URL:https://sessionize.com/beamsummit-2026
+DESCRIPTION:CFP Opened Until: 27-March-2026\nCFP Link: https://sessionize.c
+ om/beamsummit-2026\nEvent: https://beamsummit.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:P99 CONF 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260327
+LOCATION:Online
+SUMMARY:P99 CONF 2026
+URL:https://sessionize.com/p99-conf-2026
+DESCRIPTION:CFP Opened Until: 27-March-2026\nCFP Link: https://sessionize.c
+ om/p99-conf-2026\nEvent: https://www.p99conf.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:3T - Tourism, Travel & Tech 26@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260328
+LOCATION:Zagreb (Croatia)
+SUMMARY:3T - Tourism, Travel & Tech 26
+URL:https://sessionize.com/3t-tourism-travel-tech-26
+DESCRIPTION:CFP Opened Until: 28-March-2026\nCFP Link: https://sessionize.c
+ om/3t-tourism-travel-tech-26\nEvent: https://3t.bug.hr/
+END:VEVENT
+BEGIN:VEVENT
+UID:Infrastructure as a Saturday 2026 Pordenone@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260329
+LOCATION:Pordenone (Italy)
+SUMMARY:Infrastructure as a Saturday 2026 Pordenone
+URL:https://sessionize.com/iaasat2026pn/
+DESCRIPTION:CFP Opened Until: 29-March-2026\nCFP Link: https://sessionize.c
+ om/iaasat2026pn/\nEvent: https://iaasat2026pn.1nn0va.it/
+END:VEVENT
+BEGIN:VEVENT
+UID:J-Spring 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260329
+LOCATION:Utrecht (Netherlands)
+SUMMARY:J-Spring 2026
+URL:https://sessionize.com/jspring26
+DESCRIPTION:CFP Opened Until: 29-March-2026\nCFP Link: https://sessionize.c
+ om/jspring26\nEvent: https://jspring.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:Data Saturday Rheinland 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260329
+LOCATION:Augustin (Germany)
+SUMMARY:Data Saturday Rheinland 2026
+URL:https://sessionize.com/data-saturday-rheinland-2026
+DESCRIPTION:CFP Opened Until: 29-March-2026\nCFP Link: https://sessionize.c
+ om/data-saturday-rheinland-2026\nEvent: https://datasaturdays.com/Event/202
+ 60711-datasaturday0084
+END:VEVENT
+BEGIN:VEVENT
+UID:KubeCon + CloudNativeCon Japan 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260329
+LOCATION:Yokohama (Japan)
+SUMMARY:KubeCon + CloudNativeCon Japan 2026
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program
+ /cfp/
+DESCRIPTION:CFP Opened Until: 29-March-2026\nCFP Link: https://events.linux
+ foundation.org/kubecon-cloudnativecon-japan/program/cfp/\nEvent: https://ev
+ ents.linuxfoundation.org/kubecon-cloudnativecon-japan/
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Azure Veneto 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Vicenza (Italy)
+SUMMARY:Global Azure Veneto 2026
+URL:https://sessionize.com/global-azure-veneto-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/global-azure-veneto-2026\nEvent: https://veneto.globalazure.it
+END:VEVENT
+BEGIN:VEVENT
+UID:Gophercamp.cz 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Brno (Czechia)
+SUMMARY:Gophercamp.cz 2026
+URL:https://sessionize.com/gophercamp
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/gophercamp\nEvent: https://gophercamp.cz/
+END:VEVENT
+BEGIN:VEVENT
+UID:Day of Data Jacksonville 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Jacksonville, FL (USA)
+SUMMARY:Day of Data Jacksonville 2026
+URL:https://sessionize.com/dayofdatajax
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/dayofdatajax\nEvent: https://dayofdata.org/jax
+END:VEVENT
+BEGIN:VEVENT
+UID:M365 Philly 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Malvern, PA (USA)
+SUMMARY:M365 Philly 2026
+URL:https://sessionize.com/m365-philly-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/m365-philly-2026\nEvent: https://communitydays.org/event/2026-05-08/m365
+ -philly-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:KCD Czech & Slovak 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Prague (Czechia)
+SUMMARY:KCD Czech & Slovak 2026
+URL:https://sessionize.com/kcd-czech-slovak-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/kcd-czech-slovak-2026\nEvent: https://community.cncf.io/events/details/c
+ ncf-kcd-czech-slovak-presents-kcd-czech-amp-slovak-prague-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:AI Power Agents 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Herzliya (Israel)
+SUMMARY:AI Power Agents 2026
+URL:https://sessionize.com/ai-power-agents-2026/
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/ai-power-agents-2026/\nEvent: https://aipoweragentsconf.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Agentic Summit@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Toronto (Canada)
+SUMMARY:Agentic Summit
+URL:https://sessionize.com/agentic-summit
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/agentic-summit\nEvent: https://agenticsummit.org
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Buffalo 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:New York, NY (USA)
+SUMMARY:BSides Buffalo 2026
+URL:https://sessionize.com/bsides-buffalo-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/bsides-buffalo-2026\nEvent: https://www.bsidesbuffalo.org
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Albany@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:New York, NY (USA)
+SUMMARY:BSides Albany
+URL:https://sessionize.com/bsides-albany
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/bsides-albany\nEvent: https://bsidesalbany.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevLille 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Lille (France)
+SUMMARY:DevLille 2026
+URL:https://conference-hall.io/devlille-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://conference-h
+ all.io/devlille-2026\nEvent: https://devlille.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Native Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Munich (Germany)
+SUMMARY:Cloud Native Summit 2026
+URL:https://sessionize.com/cloud-native-summit-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/cloud-native-summit-2026\nEvent: https://cloudnativesummit.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:API Conf Lagos 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Lagos (Nigeria)
+SUMMARY:API Conf Lagos 2026
+URL:https://sessionize.com/api-conf-lagos-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/api-conf-lagos-2026\nEvent: https://apiconf.net/
+END:VEVENT
+BEGIN:VEVENT
+UID:SysAdminDay 2026 in Leipzig@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Leipzig (Germany)
+SUMMARY:SysAdminDay 2026 in Leipzig
+URL:https://sessionize.com/sysadminday-2026-in-leipzig
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/sysadminday-2026-in-leipzig\nEvent: https://www.sysadminday.it/
+END:VEVENT
+BEGIN:VEVENT
+UID:Carolina Code Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Greenville, SC (USA)
+SUMMARY:Carolina Code Conference 2026
+URL:https://sessionize.com/carolina-code-conference-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/carolina-code-conference-2026\nEvent: https://carolina.codes
+END:VEVENT
+BEGIN:VEVENT
+UID:Data Saturday Oslo  2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Oslo (Norway)
+SUMMARY:Data Saturday Oslo  2026
+URL:https://sessionize.com/data-saturday-oslo-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/data-saturday-oslo-2026\nEvent: https://datasaturday.no
+END:VEVENT
+BEGIN:VEVENT
+UID:POUG 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Krakow (Poland)
+SUMMARY:POUG 2026
+URL:https://sessionize.com/poug-2026/
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/poug-2026/\nEvent: https://poug.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:DragonJAR Security Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Medellín (Colombia)
+SUMMARY:DragonJAR Security Conference 2026
+URL:https://www.papercall.io/dragonjarcon2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://www.papercal
+ l.io/dragonjarcon2026\nEvent: https://www.dragonjarcon.org
+END:VEVENT
+BEGIN:VEVENT
+UID:AMTSO Cyber Research Conference@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Brussels (Belgium)
+SUMMARY:AMTSO Cyber Research Conference
+URL:https://sessionize.com/amtso-cyber-research-conference-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/amtso-cyber-research-conference-2026\nEvent: https://www.amtso.org/speci
+ al-events/amtso-cyber-research-conference-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:WeAreDevelopers World Congress 2026 - North America@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:San Jose, CA (USA)
+SUMMARY:WeAreDevelopers World Congress 2026 - North America
+URL:https://sessionize.com/wearedevelopers-world-congress-2026-us
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/wearedevelopers-world-congress-2026-us\nEvent: https://www.wearedevelope
+ rs.com/world-congress-us
+END:VEVENT
+BEGIN:VEVENT
+UID:IIBA Poland Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Warsaw (Poland)
+SUMMARY:IIBA Poland Summit 2026
+URL:https://sessionize.com/iiba-poland-summit-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/iiba-poland-summit-2026\nEvent: https://iibapolandsummit.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:Lambda World@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Malaga (Spain)
+SUMMARY:Lambda World
+URL:https://confeti.app/events/lambda-world-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://confeti.app/
+ events/lambda-world-2026\nEvent: https://www.lambda.world
+END:VEVENT
+BEGIN:VEVENT
+UID:Wey Wey Web@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Malaga (Spain)
+SUMMARY:Wey Wey Web
+URL:https://confeti.app/events/weyweyweb-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://confeti.app/
+ events/weyweyweb-2026\nEvent: https://weyweyweb.com
+END:VEVENT
+BEGIN:VEVENT
+UID:CODE BLUE 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Tokyo (Japan)
+SUMMARY:CODE BLUE 2026
+URL:https://sessionize.com/CB26-TRAINING
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/CB26-TRAINING\nEvent: https://codeblue.jp/
+END:VEVENT
+BEGIN:VEVENT
+UID:Swiftsonic '26@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Tennessee (USA)
+SUMMARY:Swiftsonic '26
+URL:https://sessionize.com/swiftsonic-26
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/swiftsonic-26\nEvent: https://www.swiftsonicconf.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Civo Navigate India 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260331
+LOCATION:Bengaluru (India)
+SUMMARY:Civo Navigate India 2026
+URL:https://sessionize.com/civo-navigate-india-2026
+DESCRIPTION:CFP Opened Until: 31-March-2026\nCFP Link: https://sessionize.c
+ om/civo-navigate-india-2026\nEvent: https://www.civo.com/navigate/india/202
+ 6
+END:VEVENT
+BEGIN:VEVENT
+UID:Devfest Georgia 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Kutaisi (Georgia)
+SUMMARY:Devfest Georgia 2026
+URL:https://sessionize.com/devfest-georgia-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/devfest-georgia-2026\nEvent: https://gdg.community.dev/events/details/go
+ ogle-gdg-akhaltsikhe-presents-devfest-georgia-2026/cohost-gdg-akhaltsikhe/
+END:VEVENT
+BEGIN:VEVENT
+UID:AWS Community Day Bengaluru 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Bengaluru (India)
+SUMMARY:AWS Community Day Bengaluru 2026
+URL:https://sessionize.com/aws-community-day-bengaluru-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/aws-community-day-bengaluru-2026\nEvent: https://acd.awsugblr.in/
+END:VEVENT
+BEGIN:VEVENT
+UID:Devopsdays Feira de Santana@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Feira de Santana (Brazil)
+SUMMARY:Devopsdays Feira de Santana
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeo2KAYtXixtuEQWbqWrc-5IhAYnZ3
+ G8Zz1CJxM4HmzZrTn-Q/viewform
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://docs.google.
+ com/forms/d/e/1FAIpQLSeo2KAYtXixtuEQWbqWrc-5IhAYnZ3G8Zz1CJxM4HmzZrTn-Q/view
+ form\nEvent: https://devopsdays.org/events/2026-feira-de-santana/welcome/
+END:VEVENT
+BEGIN:VEVENT
+UID:ETHConf@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:New York, NY (USA)
+SUMMARY:ETHConf
+URL:https://ethconf.com/partner
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://ethconf.com/
+ partner\nEvent: https://ethconf.com/r/CTECONF
+END:VEVENT
+BEGIN:VEVENT
+UID:Working Software 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Reggio nell'Emilia (Italy)
+SUMMARY:Working Software 2026
+URL:https://sessionize.com/working-software-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/working-software-2026\nEvent: https://www.agilemovement.it/workingsoftwa
+ re
+END:VEVENT
+BEGIN:VEVENT
+UID:swampUP 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:New York, NY (USA)
+SUMMARY:swampUP 2026
+URL:https://sessionize.com/swampup-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/swampup-2026\nEvent: http://swampup.jfrog.com
+END:VEVENT
+BEGIN:VEVENT
+UID:ZurichJS Conf 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Zurich (Switzerland)
+SUMMARY:ZurichJS Conf 2026
+URL:https://conf.zurichjs.com/cfp
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://conf.zurichj
+ s.com/cfp\nEvent: https://conf.zurichjs.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Zurich JS Conf@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Zurich (Switzerland)
+SUMMARY:Zurich JS Conf
+URL:https://sessionize.com/infobip-shift-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/infobip-shift-2026\nEvent: https://conf.zurichjs.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Tech passion day 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Copenhagen (Denmark)
+SUMMARY:Tech passion day 2026
+URL:https://sessionize.com/tech-passion-day-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/tech-passion-day-2026\nEvent: https://techpassionday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:SFK 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:Pristina (Kosovo)
+SUMMARY:SFK 2026
+URL:https://sessionize.com/sfk-2026
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/sfk-2026\nEvent: https://sfk.flossk.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Fast Flow Conf UK 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:London (UK)
+SUMMARY:Fast Flow Conf UK 2026
+URL:https://sessionize.com/fast-flow-conf-uk-26
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/fast-flow-conf-uk-26\nEvent: https://www.fastflowconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:OWASP Global AppSec USA (SF) 2026 - CFT@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260401
+LOCATION:San Francisco, CA (USA)
+SUMMARY:OWASP Global AppSec USA (SF) 2026 - CFT
+URL:https://sessionize.com/owasp-global-appsec-USA-SF-2026-c
+DESCRIPTION:CFP Opened Until: 01-April-2026\nCFP Link: https://sessionize.c
+ om/owasp-global-appsec-USA-SF-2026-c\nEvent: https://owasp.glueup.com/event
+ /owasp-2026-global-appsec-usa-san-francisco-ca-167174/
+END:VEVENT
+BEGIN:VEVENT
+UID:Agile Tour Strasbourg 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260403
+LOCATION:Strasbourg (France)
+SUMMARY:Agile Tour Strasbourg 2026
+URL:https://sessionize.com/agile-tour-strasbourg-2026
+DESCRIPTION:CFP Opened Until: 03-April-2026\nCFP Link: https://sessionize.c
+ om/agile-tour-strasbourg-2026\nEvent: https://agilestrasbourg.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:C:\aen\Tech@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260403
+LOCATION:Caen (France)
+SUMMARY:C:\aen\Tech
+URL:https://conference-hall.io/caen-tech
+DESCRIPTION:CFP Opened Until: 03-April-2026\nCFP Link: https://conference-h
+ all.io/caen-tech\nEvent: https://caen.tech/
+END:VEVENT
+BEGIN:VEVENT
+UID:AgentCamp Lagos 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260405
+LOCATION:Lagos (Nigeria)
+SUMMARY:AgentCamp Lagos 2026
+URL:https://sessionize.com/agentcamp-lagos-2026
+DESCRIPTION:CFP Opened Until: 05-April-2026\nCFP Link: https://sessionize.c
+ om/agentcamp-lagos-2026\nEvent: https://agentcamplagos.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevCon 27 : I.A. & Vibe Coding@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260405
+LOCATION:Paris (France)
+SUMMARY:DevCon 27 : I.A. & Vibe Coding
+URL:https://forms.gle/27JdJx38nTNnJYT16
+DESCRIPTION:CFP Opened Until: 05-April-2026\nCFP Link: https://forms.gle/27
+ JdJx38nTNnJYT16\nEvent: https://www.programmez.com
+END:VEVENT
+BEGIN:VEVENT
+UID:BC TechDays 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260405
+LOCATION:Antwerp (Belgium)
+SUMMARY:BC TechDays 2026
+URL:https://sessionize.com/bctechdays2026
+DESCRIPTION:CFP Opened Until: 05-April-2026\nCFP Link: https://sessionize.c
+ om/bctechdays2026\nEvent: https://bctechdays.com
+END:VEVENT
+BEGIN:VEVENT
+UID:8.8 Unreal Perú@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260406
+LOCATION:Miraflores (Peru)
+SUMMARY:8.8 Unreal Perú
+URL:https://www.papercall.io/8dot8-unreal-peru
+DESCRIPTION:CFP Opened Until: 06-April-2026\nCFP Link: https://www.papercal
+ l.io/8dot8-unreal-peru\nEvent: https://8dot8.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Mobilis In Mobile 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260406
+LOCATION:Nantes (France)
+SUMMARY:Mobilis In Mobile 2026
+URL:https://conference-hall.io/mobilis-in-mobile-2026
+DESCRIPTION:CFP Opened Until: 06-April-2026\nCFP Link: https://conference-h
+ all.io/mobilis-in-mobile-2026\nEvent: https://mobilis-in-mobile.io/
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Barcelona 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260408
+LOCATION:Barcelona (Spain)
+SUMMARY:SREday Barcelona 2026 Q2
+URL:https://www.papercall.io/sreday-2026-barcelona-q2
+DESCRIPTION:CFP Opened Until: 08-April-2026\nCFP Link: https://www.papercal
+ l.io/sreday-2026-barcelona-q2\nEvent: https://sreday.com/2026-barcelona-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:Ignite Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260410
+LOCATION:Online
+SUMMARY:Ignite Summit 2026
+URL:https://sessionize.com/ignite-summit-2026
+DESCRIPTION:CFP Opened Until: 10-April-2026\nCFP Link: https://sessionize.c
+ om/ignite-summit-2026\nEvent: https://ignite-summit.org
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Aarhus 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260410
+LOCATION:Aarhus (Denmark)
+SUMMARY:BSides Aarhus 2026
+URL:https://sessionize.com/bsides-aarhus-2026
+DESCRIPTION:CFP Opened Until: 10-April-2026\nCFP Link: https://sessionize.c
+ om/bsides-aarhus-2026\nEvent: https://bsidesaarhus.dk
+END:VEVENT
+BEGIN:VEVENT
+UID:Tokyo Test Fest@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260410
+LOCATION:Tokyo (Japan)
+SUMMARY:Tokyo Test Fest
+URL:https://tokyotestfest.com/en/cfp_2026/
+DESCRIPTION:CFP Opened Until: 10-April-2026\nCFP Link: https://tokyotestfes
+ t.com/en/cfp_2026/\nEvent: https://tokyotestfest.com/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Azure 2026 Indonesia@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260411
+LOCATION:Purwokerto (Indonesia)
+SUMMARY:Global Azure 2026 Indonesia
+URL:https://sessionize.com/global-azure-2026-indonesia
+DESCRIPTION:CFP Opened Until: 11-April-2026\nCFP Link: https://sessionize.c
+ om/global-azure-2026-indonesia\nEvent: https://www.eventbrite.com/e/global-
+ azure-bootcamp-2026-indonesia-tickets-1982553837898?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:Beer.JS Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260411
+LOCATION:Sofia (Bulgaria)
+SUMMARY:Beer.JS Summit 2026
+URL:https://sessionize.com/beer-js-summit-2026
+DESCRIPTION:CFP Opened Until: 11-April-2026\nCFP Link: https://sessionize.c
+ om/beer-js-summit-2026\nEvent: https://beerjssummit2025.eventbrite.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Austin 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260412
+LOCATION:Austin, TX (USA)
+SUMMARY:SREday Austin 2026 Q2
+URL:https://www.papercall.io/sreday-2026-austin-q2
+DESCRIPTION:CFP Opened Until: 12-April-2026\nCFP Link: https://www.papercal
+ l.io/sreday-2026-austin-q2\nEvent: https://sreday.com/2026-austin-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ElixirConf® US 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260412
+LOCATION:Chicago, IL (USA)
+SUMMARY:ElixirConf® US 2026
+URL:https://sessionize.com/elixirconf-us-2026
+DESCRIPTION:CFP Opened Until: 12-April-2026\nCFP Link: https://sessionize.c
+ om/elixirconf-us-2026\nEvent: https://www.elixirconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Goatmire Elixir 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260412
+LOCATION:Varberg (Sweden)
+SUMMARY:Goatmire Elixir 2026
+URL:https://sessionize.com/goatmire-elixir-2026
+DESCRIPTION:CFP Opened Until: 12-April-2026\nCFP Link: https://sessionize.c
+ om/goatmire-elixir-2026\nEvent: https://2026.goatmire.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Apidays Singapore@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260413
+LOCATION:Singapore (Singapore)
+SUMMARY:Apidays Singapore
+URL:https://apidays.typeform.com/to/ILJeAaV8
+DESCRIPTION:CFP Opened Until: 13-April-2026\nCFP Link: https://apidays.type
+ form.com/to/ILJeAaV8\nEvent: https://www.apidays.global/singapore
+END:VEVENT
+BEGIN:VEVENT
+UID:The Diana Initiative 2026 (Online Event)@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260413
+LOCATION:Online
+SUMMARY:The Diana Initiative 2026 (Online Event)
+URL:https://sessionize.com/tdi-online-2026
+DESCRIPTION:CFP Opened Until: 13-April-2026\nCFP Link: https://sessionize.c
+ om/tdi-online-2026\nEvent: https://www.dianainitiative.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Pixel Pioneers@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260413
+LOCATION:Bristol (UK)
+SUMMARY:Pixel Pioneers
+URL:https://pixelpioneers.co/call-for-speakers
+DESCRIPTION:CFP Opened Until: 13-April-2026\nCFP Link: https://pixelpioneer
+ s.co/call-for-speakers\nEvent: https://pixelpioneers.co/events/bristol-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Green IO Singapore@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260414
+LOCATION:Singapore (Singapore)
+SUMMARY:Green IO Singapore
+URL:https://apidays.typeform.com/to/SMHd2wFE?=green-io-conference%3Dcall-fo
+ r-speakers&typeform-source=greenio.tech
+DESCRIPTION:CFP Opened Until: 14-April-2026\nCFP Link: https://apidays.type
+ form.com/to/SMHd2wFE?=green-io-conference%3Dcall-for-speakers&typeform-sour
+ ce=greenio.tech\nEvent: https://greenio.tech/conference/18/singapore-2026-a
+ pril-green-it
+END:VEVENT
+BEGIN:VEVENT
+UID:AgentCon Rome@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260414
+LOCATION:Rome (Italy)
+SUMMARY:AgentCon Rome
+URL:https://sessionize.com/agentcon-rome
+DESCRIPTION:CFP Opened Until: 14-April-2026\nCFP Link: https://sessionize.c
+ om/agentcon-rome\nEvent: https://agentcon.city/rome
+END:VEVENT
+BEGIN:VEVENT
+UID:AWS Community Day Midwest 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260415
+LOCATION:Indianapolis (USA)
+SUMMARY:AWS Community Day Midwest 2026
+URL:https://sessionize.com/aws-community-day-midwest-2026
+DESCRIPTION:CFP Opened Until: 15-April-2026\nCFP Link: https://sessionize.c
+ om/aws-community-day-midwest-2026\nEvent: https://www.midwestcommunityday.c
+ om
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Porto - 2026 - 2nd@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260415
+LOCATION:Porto (Portugal)
+SUMMARY:BSides Porto - 2026 - 2nd
+URL:https://sessionize.com/bsides-porto-2026
+DESCRIPTION:CFP Opened Until: 15-April-2026\nCFP Link: https://sessionize.c
+ om/bsides-porto-2026\nEvent: https://bsidesporto.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Ng Conf Perú 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260415
+LOCATION:Lima (Peru)
+SUMMARY:Ng Conf Perú 2026
+URL:https://sessionize.com/ng-conf-peru-2026
+DESCRIPTION:CFP Opened Until: 15-April-2026\nCFP Link: https://sessionize.c
+ om/ng-conf-peru-2026\nEvent: https://ngconf.angular-peru.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Targeting Quality 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260415
+LOCATION:Cambridge, ON (Canada)
+SUMMARY:Targeting Quality 2026
+URL:https://www.papercall.io/tq2026
+DESCRIPTION:CFP Opened Until: 15-April-2026\nCFP Link: https://www.papercal
+ l.io/tq2026\nEvent: https://targetingquality.ca/
+END:VEVENT
+BEGIN:VEVENT
+UID:data2day@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260415
+LOCATION:Köln (Germany)
+SUMMARY:data2day
+URL:https://www.data2day.de/cfp.php
+DESCRIPTION:CFP Opened Until: 15-April-2026\nCFP Link: https://www.data2day
+ .de/cfp.php\nEvent: https://www.data2day.de
+END:VEVENT
+BEGIN:VEVENT
+UID:G-Summit 19. Mai 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260417
+LOCATION:Online
+SUMMARY:G-Summit 19. Mai 2026
+URL:https://sessionize.com/g-summit
+DESCRIPTION:CFP Opened Until: 17-April-2026\nCFP Link: https://sessionize.c
+ om/g-summit\nEvent: https://events.m365-summits.de/G-Summit19Mai2026#/
+END:VEVENT
+BEGIN:VEVENT
+UID:BSidesPGH 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260417
+LOCATION:Pittsburgh, PA (USA)
+SUMMARY:BSidesPGH 2026
+URL:https://sessionize.com/bsidespgh-2026/
+DESCRIPTION:CFP Opened Until: 17-April-2026\nCFP Link: https://sessionize.c
+ om/bsidespgh-2026/\nEvent: https://bsidespgh.com
+END:VEVENT
+BEGIN:VEVENT
+UID:AgentCon Nairobi@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260418
+LOCATION:Nairobi (Kenya)
+SUMMARY:AgentCon Nairobi
+URL:https://sessionize.com/agentcon-nairobi-2026
+DESCRIPTION:CFP Opened Until: 18-April-2026\nCFP Link: https://sessionize.c
+ om/agentcon-nairobi-2026\nEvent: https://globalai.community/chapters/nairob
+ i/events/agentcon-nairobi/
+END:VEVENT
+BEGIN:VEVENT
+UID:JConf Dominicana 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260418
+LOCATION:Santiago (Dominican Republic)
+SUMMARY:JConf Dominicana 2026
+URL:https://cfp.jconfdominicana.org/jconfdominicana-2026/cfp
+DESCRIPTION:CFP Opened Until: 18-April-2026\nCFP Link: https://cfp.jconfdom
+ inicana.org/jconfdominicana-2026/cfp\nEvent: https://jconfdominicana.org
+END:VEVENT
+BEGIN:VEVENT
+UID:NDC Oslo@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260419
+LOCATION:Oslo (Norway)
+SUMMARY:NDC Oslo
+URL:https://sessionize.com/ndc-oslo-2026/
+DESCRIPTION:CFP Opened Until: 19-April-2026\nCFP Link: https://sessionize.c
+ om/ndc-oslo-2026/\nEvent: https://ndcoslo.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Open Conf 2026 - SPEECHES and WORKSHOPS@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260419
+LOCATION:Athens (Greece)
+SUMMARY:Open Conf 2026 - SPEECHES and WORKSHOPS
+URL:https://sessionize.com/open-conf-2026
+DESCRIPTION:CFP Opened Until: 19-April-2026\nCFP Link: https://sessionize.c
+ om/open-conf-2026\nEvent: https://open-conf.gr/
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Golang 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260420
+LOCATION:Online
+SUMMARY:Conf42 Golang 2026
+URL:https://www.papercall.io/conf42-golang-2026
+DESCRIPTION:CFP Opened Until: 20-April-2026\nCFP Link: https://www.papercal
+ l.io/conf42-golang-2026\nEvent: https://www.conf42.com/golang2026
+END:VEVENT
+BEGIN:VEVENT
+UID:LLMday London 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260420
+LOCATION:London (UK)
+SUMMARY:LLMday London 2026 Q2
+URL:https://www.papercall.io/llmday-2026-london-q2
+DESCRIPTION:CFP Opened Until: 20-April-2026\nCFP Link: https://www.papercal
+ l.io/llmday-2026-london-q2\nEvent: https://llmday.com/2026-london-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:CollabDays Madrid 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260420
+LOCATION:Pozuelo de Alarcón (Spain)
+SUMMARY:CollabDays Madrid 2026
+URL:https://sessionize.com/collabdays-madrid-2026
+DESCRIPTION:CFP Opened Until: 20-April-2026\nCFP Link: https://sessionize.c
+ om/collabdays-madrid-2026\nEvent: https://www.collabdays.org/2026-madrid/
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Munich 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260421
+LOCATION:Munich (Germany)
+SUMMARY:SREday Munich 2026 Q2
+URL:https://www.papercall.io/sreday-2026-munich-q2
+DESCRIPTION:CFP Opened Until: 21-April-2026\nCFP Link: https://www.papercal
+ l.io/sreday-2026-munich-q2\nEvent: https://sreday.com/2026-munich-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:Asynconf@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Paris (France)
+SUMMARY:Asynconf
+URL:https://cfp.asynconf.com/
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://cfp.asynconf
+ .com/\nEvent: https://asynconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevOpsDays Graz 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Graz (Austria)
+SUMMARY:DevOpsDays Graz 2026
+URL:https://pretalx.com/devopsdays-graz-2026/cfp
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://pretalx.com/
+ devopsdays-graz-2026/cfp\nEvent: https://www.devopsdays.at/
+END:VEVENT
+BEGIN:VEVENT
+UID:Power BI Next Step@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Odense (Denmark)
+SUMMARY:Power BI Next Step
+URL:https://sessionize.com/power-bi-next-step
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/power-bi-next-step\nEvent: http://powerbinextstep.com
+END:VEVENT
+BEGIN:VEVENT
+UID:GoforIT: Kunstig intelligens i offentlig sektor 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Oslo (Norway)
+SUMMARY:GoforIT: Kunstig intelligens i offentlig sektor 2026
+URL:https://sessionize.com/goforit-kunstig-intelligens-i-offentlig
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/goforit-kunstig-intelligens-i-offentlig\nEvent: https://tankesmiengofori
+ t.no/nettverk/generativ-ai-i-offentlig-sektor/
+END:VEVENT
+BEGIN:VEVENT
+UID:Swiss Cloud Native Day 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Bern (Switzerland)
+SUMMARY:Swiss Cloud Native Day 2026
+URL:https://sessionize.com/swiss-cloud-native-day-2026
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/swiss-cloud-native-day-2026\nEvent: https://cloudnativeday.ch/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Native Days Austria@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Vienna (Austria)
+SUMMARY:Cloud Native Days Austria
+URL:https://sessionize.com/cloud-native-days-austria-2026
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/cloud-native-days-austria-2026\nEvent: https://cloudnativedays.at/
+END:VEVENT
+BEGIN:VEVENT
+UID:WAX 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Marseille (France)
+SUMMARY:WAX 2026
+URL:https://conference-hall.io/wax-2026-conference-tech-au-stade-velodrome
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://conference-h
+ all.io/wax-2026-conference-tech-au-stade-velodrome\nEvent: https://www.waxc
+ onf.fr/
+END:VEVENT
+BEGIN:VEVENT
+UID:Experts Live Saudi 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Riyadh (Saudi Arabia)
+SUMMARY:Experts Live Saudi 2026
+URL:https://sessionize.com/experts-live-saudi-2026
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/experts-live-saudi-2026\nEvent: https://expertslive.sa
+END:VEVENT
+BEGIN:VEVENT
+UID:Frontmania 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Utrecht (Netherlands)
+SUMMARY:Frontmania 2026
+URL:https://sessionize.com/frontmania-2026
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/frontmania-2026\nEvent: https://frontmania.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:.NET DeveloperDays 2026 Warsaw@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Warsaw (Poland)
+SUMMARY:.NET DeveloperDays 2026 Warsaw
+URL:https://sessionize.com/net-developerdays-2026
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/net-developerdays-2026\nEvent: https://net.developerdays.pl/
+END:VEVENT
+BEGIN:VEVENT
+UID:Techorama 2026 Netherlands@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Utrecht (Netherlands)
+SUMMARY:Techorama 2026 Netherlands
+URL:https://sessionize.com/techorama-2026-netherlands
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://sessionize.c
+ om/techorama-2026-netherlands\nEvent: https://www.techorama.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:CMS Conf 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Gdynia (Poland)
+SUMMARY:CMS Conf 2026
+URL:https://cmsconf.com/call-for-papers/
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://cmsconf.com/
+ call-for-papers/\nEvent: https://cmsconf.com
+END:VEVENT
+BEGIN:VEVENT
+UID:IT-Tage@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260430
+LOCATION:Frankfurt (Germany)
+SUMMARY:IT-Tage
+URL:https://www.ittage.informatik-aktuell.de/index.html
+DESCRIPTION:CFP Opened Until: 30-April-2026\nCFP Link: https://www.ittage.i
+ nformatik-aktuell.de/index.html\nEvent: https://www.it-tage.org
+END:VEVENT
+BEGIN:VEVENT
+UID:DevDays Europe@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260501
+LOCATION:Vilnius (Lithuania)
+SUMMARY:DevDays Europe
+URL:https://airtable.com/app2OG5hAK2bnFPRu/shr6c86jsxcZNDu13
+DESCRIPTION:CFP Opened Until: 01-May-2026\nCFP Link: https://airtable.com/a
+ pp2OG5hAK2bnFPRu/shr6c86jsxcZNDu13\nEvent: https://devdays.lt
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday NYC 2026 Q2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260501
+LOCATION:New York, NY (USA)
+SUMMARY:SREday NYC 2026 Q2
+URL:https://www.papercall.io/sreday-2026-nyc-q2
+DESCRIPTION:CFP Opened Until: 01-May-2026\nCFP Link: https://www.papercall.
+ io/sreday-2026-nyc-q2\nEvent: https://sreday.com/2026-nyc-q2/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cajusec 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260501
+LOCATION:Aracaju (Brazil)
+SUMMARY:Cajusec 2026
+URL:https://www.papercall.io/cajusec2026
+DESCRIPTION:CFP Opened Until: 01-May-2026\nCFP Link: https://www.papercall.
+ io/cajusec2026\nEvent: https://www.cajusec.com.br/
+END:VEVENT
+BEGIN:VEVENT
+UID:Day of Data Baton Rouge 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260501
+LOCATION:Baton Rouge, LA (USA)
+SUMMARY:Day of Data Baton Rouge 2026
+URL:https://sessionize.com/sqlsatbr26
+DESCRIPTION:CFP Opened Until: 01-May-2026\nCFP Link: https://sessionize.com
+ /sqlsatbr26\nEvent: http://www.sqlsatbr.com
+END:VEVENT
+BEGIN:VEVENT
+UID:C1B3RTR4CKS@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Madrid (Spain)
+SUMMARY:C1B3RTR4CKS
+URL:https://www.papercall.io/c1b3rtr4cks26
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://www.papercall.
+ io/c1b3rtr4cks26\nEvent: https://www.c1b3rtr4cks.es/
+END:VEVENT
+BEGIN:VEVENT
+UID:Cyber Security for Critical Assets Canada@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Calgary (Canada)
+SUMMARY:Cyber Security for Critical Assets Canada
+URL:https://canada.cs4ca.com/submit-speaking-proposal/
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://canada.cs4ca.c
+ om/submit-speaking-proposal/\nEvent: https://canada.cs4ca.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:EmberFest 2026 – Prague, Czechia@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Prague (Czechia)
+SUMMARY:EmberFest 2026 – Prague, Czechia
+URL:https://www.papercall.io/emberfest-2026
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://www.papercall.
+ io/emberfest-2026\nEvent: https://emberfest.eu
+END:VEVENT
+BEGIN:VEVENT
+UID:TDC 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Trondheim (Norway)
+SUMMARY:TDC 2026
+URL:https://sessionize.com/tdc-2026/
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://sessionize.com
+ /tdc-2026/\nEvent: https://2026.trondheimdc.no
+END:VEVENT
+BEGIN:VEVENT
+UID:HelloStavanger 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Stavanger (Norway)
+SUMMARY:HelloStavanger 2026
+URL:https://sessionize.com/hellostavanger-2026
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://sessionize.com
+ /hellostavanger-2026\nEvent: https://hellostavanger.no
+END:VEVENT
+BEGIN:VEVENT
+UID:Product Management Day 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260503
+LOCATION:Bologna (Italy)
+SUMMARY:Product Management Day 2026
+URL:https://sessionize.com/product-management-day-2026
+DESCRIPTION:CFP Opened Until: 03-May-2026\nCFP Link: https://sessionize.com
+ /product-management-day-2026\nEvent: https://www.productmanagementday.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Database DevOps 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260504
+LOCATION:Online
+SUMMARY:Conf42 Database DevOps 2026
+URL:https://www.papercall.io/conf42-database-devops-2026
+DESCRIPTION:CFP Opened Until: 04-May-2026\nCFP Link: https://www.papercall.
+ io/conf42-database-devops-2026\nEvent: https://www.conf42.com/dbd2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Daten-WG 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260504
+LOCATION:Köln (Germany)
+SUMMARY:Daten-WG 2026
+URL:https://sessionize.com/daten-wg-2026/
+DESCRIPTION:CFP Opened Until: 04-May-2026\nCFP Link: https://sessionize.com
+ /daten-wg-2026/\nEvent: https://www.daten-wg.com/details-registrierung/date
+ n-wg-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Apidays New York@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260512
+LOCATION:New York, NY (USA)
+SUMMARY:Apidays New York
+URL:https://apidays.typeform.com/to/ILJeAaV8
+DESCRIPTION:CFP Opened Until: 12-May-2026\nCFP Link: https://apidays.typefo
+ rm.com/to/ILJeAaV8\nEvent: https://www.apidays.global/new-york
+END:VEVENT
+BEGIN:VEVENT
+UID:DevTalks Romania 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260515
+LOCATION:Bucharest (Romania)
+SUMMARY:DevTalks Romania 2026
+URL:https://www.papercall.io/devtalksbucharest-2026
+DESCRIPTION:CFP Opened Until: 15-May-2026\nCFP Link: https://www.papercall.
+ io/devtalksbucharest-2026\nEvent: https://www.devtalks.ro/
+END:VEVENT
+BEGIN:VEVENT
+UID:GDevCon#7@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260517
+LOCATION:Brussels (Belgium)
+SUMMARY:GDevCon#7
+URL:https://www.papercall.io/gdevcon7
+DESCRIPTION:CFP Opened Until: 17-May-2026\nCFP Link: https://www.papercall.
+ io/gdevcon7\nEvent: http://www.gdevcon.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Large Language Models (LLMs) 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260518
+LOCATION:Online
+SUMMARY:Conf42 Large Language Models (LLMs) 2026
+URL:https://www.papercall.io/conf42-large-language-models-llms-2026
+DESCRIPTION:CFP Opened Until: 18-May-2026\nCFP Link: https://www.papercall.
+ io/conf42-large-language-models-llms-2026\nEvent: https://www.conf42.com/ll
+ ms2026
+END:VEVENT
+BEGIN:VEVENT
+UID:KCD Lima Perú 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260518
+LOCATION:Lima (Peru)
+SUMMARY:KCD Lima Perú 2026
+URL:https://sessionize.com/kcd-lima-peru-2026
+DESCRIPTION:CFP Opened Until: 18-May-2026\nCFP Link: https://sessionize.com
+ /kcd-lima-peru-2026\nEvent: https://kcdlima.pe
+END:VEVENT
+BEGIN:VEVENT
+UID:DynamicsCon Regional: Ohio Valley 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260518
+LOCATION:Columbus, OH (USA)
+SUMMARY:DynamicsCon Regional: Ohio Valley 2026
+URL:https://sessionize.com/dynamicscon-regional-ohio-valley
+DESCRIPTION:CFP Opened Until: 18-May-2026\nCFP Link: https://sessionize.com
+ /dynamicscon-regional-ohio-valley\nEvent: https://www.eventbrite.com/e/1981
+ 189370740?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:Volcamp@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260518
+LOCATION:Clermont-Ferrand (France)
+SUMMARY:Volcamp
+URL:https://conference-hall.io/volcamp-2026
+DESCRIPTION:CFP Opened Until: 18-May-2026\nCFP Link: https://conference-hal
+ l.io/volcamp-2026\nEvent: https://www.volcamp.io
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Women in Technology Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260520
+LOCATION:Chicago, IL (USA)
+SUMMARY:Chicago Women in Technology Conference 2026
+URL:https://www.papercall.io/chiwitcon2026
+DESCRIPTION:CFP Opened Until: 20-May-2026\nCFP Link: https://www.papercall.
+ io/chiwitcon2026\nEvent: https://chiwomenintech.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Infobip Shift Zadar@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260522
+LOCATION:Zadar (Croatia)
+SUMMARY:Infobip Shift Zadar
+URL:https://sessionize.com/infobip-shift-2026
+DESCRIPTION:CFP Opened Until: 22-May-2026\nCFP Link: https://sessionize.com
+ /infobip-shift-2026\nEvent: https://shift.infobip.com
+END:VEVENT
+BEGIN:VEVENT
+UID:DevOps Midwest 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:St. Louis, MO (USA)
+SUMMARY:DevOps Midwest 2026
+URL:https://www.papercall.io/devopsmidwest2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://www.papercall.
+ io/devopsmidwest2026\nEvent: http://www.devopsmidwest.com
+END:VEVENT
+BEGIN:VEVENT
+UID:AI Industrial Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Sofia (Bulgaria)
+SUMMARY:AI Industrial Summit 2026
+URL:https://sessionize.com/ai-industrial-summit-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://sessionize.com
+ /ai-industrial-summit-2026\nEvent: https://www.iotsummit.tech/
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Krakow 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Krakow (Poland)
+SUMMARY:BSides Krakow 2026
+URL:https://sessionize.com/bsides-Krakow-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://sessionize.com
+ /bsides-Krakow-2026\nEvent: https://bsidesKrakow.pl
+END:VEVENT
+BEGIN:VEVENT
+UID:DevOpsDays Istanbul 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Istanbul (Turkey)
+SUMMARY:DevOpsDays Istanbul 2026
+URL:https://www.papercall.io/devopsdays-istanbul-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://www.papercall.
+ io/devopsdays-istanbul-2026\nEvent: https://devopsdays.istanbul
+END:VEVENT
+BEGIN:VEVENT
+UID:DevFest Hamburg 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Hamburg (Germany)
+SUMMARY:DevFest Hamburg 2026
+URL:https://sessionize.com/devfest-hamburg-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://sessionize.com
+ /devfest-hamburg-2026\nEvent: https://hamburg.devfest.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:CyberMarketingCon & CyberCEO Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Austin, TX (USA)
+SUMMARY:CyberMarketingCon & CyberCEO Summit 2026
+URL:https://sessionize.com/cybermarketingcon-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://sessionize.com
+ /cybermarketingcon-2026\nEvent: https://cybermarketingconference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Manage Agile 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260531
+LOCATION:Leipzig (Germany)
+SUMMARY:Manage Agile 2026
+URL:https://sessionize.com/manage-agile-2026
+DESCRIPTION:CFP Opened Until: 31-May-2026\nCFP Link: https://sessionize.com
+ /manage-agile-2026\nEvent: https://www.manage-agile.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:DevOpsDays Dallas 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Dallas, TX (USA)
+SUMMARY:DevOpsDays Dallas 2026
+URL:https://www.papercall.io/dod-dfw-2026
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://www.papercall
+ .io/dod-dfw-2026\nEvent: https://devopsdays.org/events/2026-dallas/welcome/
+END:VEVENT
+BEGIN:VEVENT
+UID:ServerlessDays Milano 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Milan (Italy)
+SUMMARY:ServerlessDays Milano 2026
+URL:https://www.papercall.io/serverlessdays-milano-2026
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://www.papercall
+ .io/serverlessdays-milano-2026\nEvent: http://milan.serverlessdays.io
+END:VEVENT
+BEGIN:VEVENT
+UID:Cybersecurity conference - CSC 26@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Krakow (Croatia)
+SUMMARY:Cybersecurity conference - CSC 26
+URL:https://sessionize.com/cybersecurity-conference-csc-26
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://sessionize.co
+ m/cybersecurity-conference-csc-26\nEvent: https://www.hiks.hr
+END:VEVENT
+BEGIN:VEVENT
+UID:Data Saturdays Sofia 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Sofia (Bulgaria)
+SUMMARY:Data Saturdays Sofia 2026
+URL:https://sessionize.com/data-saturdays-sofia-2026
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://sessionize.co
+ m/data-saturdays-sofia-2026\nEvent: https://datasaturday-2025.eventbrite.nl
+END:VEVENT
+BEGIN:VEVENT
+UID:Heapcon 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Belgrade (Serbia)
+SUMMARY:Heapcon 2026
+URL:https://forms.gle/QBM1aqkL8yS4c6YM8
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://forms.gle/QBM
+ 1aqkL8yS4c6YM8\nEvent: https://heapcon.io/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:AI for Developers@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260601
+LOCATION:Online
+SUMMARY:AI for Developers
+URL:https://aiconference.dev/cfp
+DESCRIPTION:CFP Opened Until: 01-June-2026\nCFP Link: https://aiconference.
+ dev/cfp\nEvent: https://aiconference.dev/
+END:VEVENT
+BEGIN:VEVENT
+UID:Unhacked 360 International Cybersecurity Conference@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260608
+LOCATION:Atlanta, GA (USA)
+SUMMARY:Unhacked 360 International Cybersecurity Conference
+URL:https://momentera.org
+DESCRIPTION:CFP Opened Until: 08-June-2026\nCFP Link: https://momentera.org
+ \nEvent: https://momentera.org/conferences/unhacked360conference
+END:VEVENT
+BEGIN:VEVENT
+UID:Workplace & Security Ninja User Group Switzerland 2603@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260612
+LOCATION:Zurich (Switzerland)
+SUMMARY:Workplace & Security Ninja User Group Switzerland 2603
+URL:https://sessionize.com/wpninja-ug-ch/
+DESCRIPTION:CFP Opened Until: 12-June-2026\nCFP Link: https://sessionize.co
+ m/wpninja-ug-ch/\nEvent: https://www.meetup.com/wpninjasugswitzerland/event
+ s/312794038/?eventOrigin=group_upcoming_events
+END:VEVENT
+BEGIN:VEVENT
+UID:Cloud Native Denmark 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260614
+LOCATION:Copenhagen (Denmark)
+SUMMARY:Cloud Native Denmark 2026
+URL:https://sessionize.com/cloud-native-denmark-2026
+DESCRIPTION:CFP Opened Until: 14-June-2026\nCFP Link: https://sessionize.co
+ m/cloud-native-denmark-2026\nEvent: https://cloudnativedenmark.dk
+END:VEVENT
+BEGIN:VEVENT
+UID:FabFest 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260615
+LOCATION:Birmingham (UK)
+SUMMARY:FabFest 2026
+URL:https://sessionize.com/fabfest2026
+DESCRIPTION:CFP Opened Until: 15-June-2026\nCFP Link: https://sessionize.co
+ m/fabfest2026\nEvent: https://fabfestconf.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:Dynamics Summit 08.-09. Dezember 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260615
+LOCATION:Online
+SUMMARY:Dynamics Summit 08.-09. Dezember 2026
+URL:https://sessionize.com/dynamics-summit-08-09-dezember-2026
+DESCRIPTION:CFP Opened Until: 15-June-2026\nCFP Link: https://sessionize.co
+ m/dynamics-summit-08-09-dezember-2026\nEvent: https://events.m365-summits.d
+ e/DynamicsSummit0809Dezember2026#/
+END:VEVENT
+BEGIN:VEVENT
+UID:MCT Summit 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260618
+LOCATION:Riyadh (Saudi Arabia)
+SUMMARY:MCT Summit 2026
+URL:https://sessionize.com/mct-26
+DESCRIPTION:CFP Opened Until: 18-June-2026\nCFP Link: https://sessionize.co
+ m/mct-26\nEvent: https://mctsummit.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Directions for Enterprise 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260630
+LOCATION:Copenhagen (Denmark)
+SUMMARY:Directions for Enterprise 2026
+URL:https://sessionize.com/directions-enterprise-2026
+DESCRIPTION:CFP Opened Until: 30-June-2026\nCFP Link: https://sessionize.co
+ m/directions-enterprise-2026\nEvent: https://www.directionsforpartners.com/
+ enterprise2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ISPE Nordic Affiliate - Baltic Conference@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260701
+LOCATION:Jurmala (Latvia)
+SUMMARY:ISPE Nordic Affiliate - Baltic Conference
+URL:https://sessionize.com/ispe-baltics-event
+DESCRIPTION:CFP Opened Until: 01-July-2026\nCFP Link: https://sessionize.co
+ m/ispe-baltics-event\nEvent: https://ispe-nordic.easysignup.com/9/
+END:VEVENT
+BEGIN:VEVENT
+UID:Devopsdays Prague@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260701
+LOCATION:Prague (Czechia)
+SUMMARY:Devopsdays Prague
+URL:https://www.papercall.io/dodprague26
+DESCRIPTION:CFP Opened Until: 01-July-2026\nCFP Link: https://www.papercall
+ .io/dodprague26\nEvent: https://devopsdays.org/events/2026-prague/welcome/
+END:VEVENT
+BEGIN:VEVENT
+UID:next.app devcon@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260701
+LOCATION:Berlin (Germany)
+SUMMARY:next.app devcon
+URL:https://sessionize.com/nextapp26
+DESCRIPTION:CFP Opened Until: 01-July-2026\nCFP Link: https://sessionize.co
+ m/nextapp26\nEvent: https://nextappcon.com
+END:VEVENT
+BEGIN:VEVENT
+UID:SymfonyCon Warsaw 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260701
+LOCATION:Warsaw (Poland)
+SUMMARY:SymfonyCon Warsaw 2026
+URL:https://live.symfony.com/2026-warsaw-con/cfp
+DESCRIPTION:CFP Opened Until: 01-July-2026\nCFP Link: https://live.symfony.
+ com/2026-warsaw-con/cfp\nEvent: https://live.symfony.com/2026-warsaw-con
+END:VEVENT
+BEGIN:VEVENT
+UID:Hands-On Testing 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260715
+LOCATION:Online
+SUMMARY:Hands-On Testing 2026
+URL:https://sessionize.com/hands-on-testing-2026
+DESCRIPTION:CFP Opened Until: 15-July-2026\nCFP Link: https://sessionize.co
+ m/hands-on-testing-2026\nEvent: https://handsontesting.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Brighton@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260801
+LOCATION:Brighton (UK)
+SUMMARY:BSides Brighton
+URL:https://sessionize.com/bsides-brighton
+DESCRIPTION:CFP Opened Until: 01-August-2026\nCFP Link: https://sessionize.
+ com/bsides-brighton\nEvent: https://bsidesbrighton.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:4th Tech Summit on AI & Robotics@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260802
+LOCATION:Paris (France) & Online
+SUMMARY:4th Tech Summit on AI & Robotics
+URL:https://artificialintelligence.averconferences.com/scientific_session.p
+ hp
+DESCRIPTION:CFP Opened Until: 02-August-2026\nCFP Link: https://artificiali
+ ntelligence.averconferences.com/scientific_session.php\nEvent: https://arti
+ ficialintelligence.averconferences.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:BSides Zadar 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260805
+LOCATION:Zadar (Croatia)
+SUMMARY:BSides Zadar 2026
+URL:https://sessionize.com/bsideszadar-2026
+DESCRIPTION:CFP Opened Until: 05-August-2026\nCFP Link: https://sessionize.
+ com/bsideszadar-2026\nEvent: https://bsideszadar.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Observability 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260810
+LOCATION:Online
+SUMMARY:Conf42 Observability 2026
+URL:https://www.papercall.io/conf42-observability-2026
+DESCRIPTION:CFP Opened Until: 10-August-2026\nCFP Link: https://www.paperca
+ ll.io/conf42-observability-2026\nEvent: https://www.conf42.com/obs2026
+END:VEVENT
+BEGIN:VEVENT
+UID:DevTalks Cluj Napoca 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260816
+LOCATION:Cluj-Napoca (Romania)
+SUMMARY:DevTalks Cluj Napoca 2026
+URL:https://www.papercall.io/devtalks-2026
+DESCRIPTION:CFP Opened Until: 16-August-2026\nCFP Link: https://www.paperca
+ ll.io/devtalks-2026\nEvent: https://www.devtalks.ro/10-devtalks-cluj-napoca
+ -2025
+END:VEVENT
+BEGIN:VEVENT
+UID:Governance & Security Summit 19.-20. Januar 2027@dca-2027
+DTSTAMP:20260303T140603
+DTSTART:20260820
+LOCATION:Online
+SUMMARY:Governance & Security Summit 19.-20. Januar 2027
+URL:https://sessionize.com/governance-security-summit-19-20-j
+DESCRIPTION:CFP Opened Until: 20-August-2026\nCFP Link: https://sessionize.
+ com/governance-security-summit-19-20-j\nEvent: https://events.m365-summits.
+ de/GovernanceSecuritySummit1920Januar2027
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Data & AI Virtual Tech Conference 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260822
+LOCATION:Online
+SUMMARY:Global Data & AI Virtual Tech Conference 2026
+URL:https://sessionize.com/dataglobalhub-gdai-2026
+DESCRIPTION:CFP Opened Until: 22-August-2026\nCFP Link: https://sessionize.
+ com/dataglobalhub-gdai-2026\nEvent: https://dataglobalhub.org
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 AI Agents 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260824
+LOCATION:Online
+SUMMARY:Conf42 AI Agents 2026
+URL:https://www.papercall.io/conf42-ai-agents-2026
+DESCRIPTION:CFP Opened Until: 24-August-2026\nCFP Link: https://www.paperca
+ ll.io/conf42-ai-agents-2026\nEvent: https://www.conf42.com/agents2026
+END:VEVENT
+BEGIN:VEVENT
+UID:ValuSignal 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260831
+LOCATION:Online
+SUMMARY:ValuSignal 2026
+URL:https://sessionize.com/valusignal-2026
+DESCRIPTION:CFP Opened Until: 31-August-2026\nCFP Link: https://sessionize.
+ com/valusignal-2026\nEvent: http://www.valusignal.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 DevSecOps 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260914
+LOCATION:Online
+SUMMARY:Conf42 DevSecOps 2026
+URL:https://www.papercall.io/conf42-devsecops-2026
+DESCRIPTION:CFP Opened Until: 14-September-2026\nCFP Link: https://www.pape
+ rcall.io/conf42-devsecops-2026\nEvent: https://www.conf42.com/devsecops2026
+END:VEVENT
+BEGIN:VEVENT
+UID:AI Poland@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260915
+LOCATION:Warsaw (Poland)
+SUMMARY:AI Poland
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_
+ DF-AsFLAP8wdHeZ3O-g/viewform
+DESCRIPTION:CFP Opened Until: 15-September-2026\nCFP Link: https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/
+ viewform\nEvent: https://ai-poland.pl
+END:VEVENT
+BEGIN:VEVENT
+UID:JS Poland@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260915
+LOCATION:Warsaw (Poland)
+SUMMARY:JS Poland
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_
+ DF-AsFLAP8wdHeZ3O-g/viewform
+DESCRIPTION:CFP Opened Until: 15-September-2026\nCFP Link: https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/
+ viewform\nEvent: https://js-poland.pl
+END:VEVENT
+BEGIN:VEVENT
+UID:NG Poland@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260915
+LOCATION:Warsaw (Poland)
+SUMMARY:NG Poland
+URL:https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_
+ DF-AsFLAP8wdHeZ3O-g/viewform
+DESCRIPTION:CFP Opened Until: 15-September-2026\nCFP Link: https://docs.goo
+ gle.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/
+ viewform\nEvent: https://ng-poland.pl
+END:VEVENT
+BEGIN:VEVENT
+UID:Power BI Summit 16. - 17. Februar 2027@dca-2027
+DTSTAMP:20260303T140603
+DTSTART:20260917
+LOCATION:Online
+SUMMARY:Power BI Summit 16. - 17. Februar 2027
+URL:https://sessionize.com/power-bi-summit-16-17-februar-2027
+DESCRIPTION:CFP Opened Until: 17-September-2026\nCFP Link: https://sessioni
+ ze.com/power-bi-summit-16-17-februar-2027\nEvent: https://events.m365-summi
+ ts.de/PowerBISummit1617Februar2027
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Prompt Engineering 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260928
+LOCATION:Online
+SUMMARY:Conf42 Prompt Engineering 2026
+URL:https://www.papercall.io/conf42-prompt-engineering-2026
+DESCRIPTION:CFP Opened Until: 28-September-2026\nCFP Link: https://www.pape
+ rcall.io/conf42-prompt-engineering-2026\nEvent: https://www.conf42.com/prom
+ pt2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Apidays London@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260929
+LOCATION:London (UK)
+SUMMARY:Apidays London
+URL:https://apidays.typeform.com/to/ILJeAaV8
+DESCRIPTION:CFP Opened Until: 29-September-2026\nCFP Link: https://apidays.
+ typeform.com/to/ILJeAaV8\nEvent: https://www.apidays.global/london
+END:VEVENT
+BEGIN:VEVENT
+UID:The AI Conf@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20260930
+LOCATION:Barcelona (Spain)
+SUMMARY:The AI Conf
+URL:https://theconf.ai/call-for-papers
+DESCRIPTION:CFP Opened Until: 30-September-2026\nCFP Link: https://theconf.
+ ai/call-for-papers\nEvent: https://theconf.ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:SREday Amsterdam 2026 Q4@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261001
+LOCATION:Amsterdam (Netherlands)
+SUMMARY:SREday Amsterdam 2026 Q4
+URL:https://www.papercall.io/sreday-amsterdam-2026-q4
+DESCRIPTION:CFP Opened Until: 01-October-2026\nCFP Link: https://www.paperc
+ all.io/sreday-amsterdam-2026-q4\nEvent: https://sreday.com/2026-amsterdam-q
+ 4/
+END:VEVENT
+BEGIN:VEVENT
+UID:PUSH UX@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261001
+LOCATION:Munich (Germany)
+SUMMARY:PUSH UX
+URL:https://push-conference.com/#calls
+DESCRIPTION:CFP Opened Until: 01-October-2026\nCFP Link: https://push-confe
+ rence.com/#calls\nEvent: https://push-conference.com
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 Platform Engineering 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261005
+LOCATION:Online
+SUMMARY:Conf42 Platform Engineering 2026
+URL:https://www.papercall.io/conf42-platform-engineering-2026
+DESCRIPTION:CFP Opened Until: 05-October-2026\nCFP Link: https://www.paperc
+ all.io/conf42-platform-engineering-2026\nEvent: https://www.conf42.com/plat
+ form2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Global Summit on Data Science and Cloud Computing@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261015
+LOCATION:Rome (Italy)
+SUMMARY:Global Summit on Data Science and Cloud Computing
+URL:https://datascience.novelticsconferences.com/register
+DESCRIPTION:CFP Opened Until: 15-October-2026\nCFP Link: https://datascienc
+ e.novelticsconferences.com/register\nEvent: https://datascience.novelticsco
+ nferences.com
+END:VEVENT
+BEGIN:VEVENT
+UID:North American M365 Summit 16.- 17. March 2027@dca-2027
+DTSTAMP:20260303T140603
+DTSTART:20261017
+LOCATION:Online
+SUMMARY:North American M365 Summit 16.- 17. March 2027
+URL:https://sessionize.com/north-american-m365-summit-16-17-march
+DESCRIPTION:CFP Opened Until: 17-October-2026\nCFP Link: https://sessionize
+ .com/north-american-m365-summit-16-17-march\nEvent: https://events.m365-sum
+ mits.de/NorthAmericanM365Summit1618Mrz2027
+END:VEVENT
+BEGIN:VEVENT
+UID:DevCon 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261018
+LOCATION:Bucharest (Romania)
+SUMMARY:DevCon 2026
+URL:https://www.papercall.io/devcon2026
+DESCRIPTION:CFP Opened Until: 18-October-2026\nCFP Link: https://www.paperc
+ all.io/devcon2026\nEvent: https://www.dev-con.ro/
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42 MLOps 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261019
+LOCATION:Online
+SUMMARY:Conf42 MLOps 2026
+URL:https://www.papercall.io/conf42-mlops-2026
+DESCRIPTION:CFP Opened Until: 19-October-2026\nCFP Link: https://www.paperc
+ all.io/conf42-mlops-2026\nEvent: https://www.conf42.com/mlops2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Apidays Australia@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261027
+LOCATION:Melbourne (Australia)
+SUMMARY:Apidays Australia
+URL:https://apidays.typeform.com/to/ILJeAaV8
+DESCRIPTION:CFP Opened Until: 27-October-2026\nCFP Link: https://apidays.ty
+ peform.com/to/ILJeAaV8\nEvent: https://www.apidays.global/australia
+END:VEVENT
+BEGIN:VEVENT
+UID:Conf42: Chaos Engineering 2026@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261102
+LOCATION:Online
+SUMMARY:Conf42: Chaos Engineering 2026
+URL:https://www.papercall.io/conf42-chaos-engineering-2026
+DESCRIPTION:CFP Opened Until: 02-November-2026\nCFP Link: https://www.paper
+ call.io/conf42-chaos-engineering-2026\nEvent: https://www.conf42.com/ce2026
+END:VEVENT
+BEGIN:VEVENT
+UID:Apidays Paris@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261130
+LOCATION:Paris (France)
+SUMMARY:Apidays Paris
+URL:https://apidays.typeform.com/to/ILJeAaV8
+DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://apidays.t
+ ypeform.com/to/ILJeAaV8\nEvent: https://www.apidays.global/paris
+END:VEVENT
+BEGIN:VEVENT
+UID:"12 Reasons Why" with Tech Experts  - Season 2@dca-2026
+DTSTAMP:20260303T140603
+DTSTART:20261130
+LOCATION:Online
+SUMMARY:"12 Reasons Why" with Tech Experts  - Season 2
+URL:https://sessionize.com/12-reasons-why-with-tech-experts-co
+DESCRIPTION:CFP Opened Until: 30-November-2026\nCFP Link: https://sessioniz
+ e.com/12-reasons-why-with-tech-experts-co\nEvent: https://12reasons.theazwa
+ y.com
+END:VEVENT
+BEGIN:VEVENT
+UID:AI & Copilot Summit 01.-02. Juni 2027@dca-2027
+DTSTAMP:20260303T140603
+DTSTART:20261221
+LOCATION:Online
+SUMMARY:AI & Copilot Summit 01.-02. Juni 2027
+URL:https://sessionize.com/ai-copilot-summit-01-02-juni-2027
+DESCRIPTION:CFP Opened Until: 21-December-2026\nCFP Link: https://sessioniz
+ e.com/ai-copilot-summit-01-02-juni-2027\nEvent: https://events.m365-summits
+ .de/AICopilotSummit0102Juni2027
 END:VEVENT
 END:VCALENDAR
